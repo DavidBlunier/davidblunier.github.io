@@ -2,7 +2,7 @@
 title: "Origine du langage et diversité des langues"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024/Origines
+permalink: /teaching/Origines
 venue: "Université de Poitiers"
 date: 13.09.2024
 location: "Poitiers, France"
