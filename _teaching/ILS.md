@@ -1,7 +1,7 @@
 ---
 title: "Introduction à la linguistique des langues des signes"
 collection: teaching
-type: "Course"
+type: "Undergraduate course"
 permalink: /teaching/ILS
 venue: "Université de Poitiers"
 date: 13.09.2024
