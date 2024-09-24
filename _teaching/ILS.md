@@ -14,4 +14,4 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 
 [Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)
 
-[Cours 1: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
+[Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
