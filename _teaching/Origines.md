@@ -13,3 +13,6 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 [Syllabus](./origines/Syllabus_Origines.pdf)
 
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5743#section-0)
+
+
+[Cours 1](./origines/Poitiers_Origines_Cours1.pdf)
