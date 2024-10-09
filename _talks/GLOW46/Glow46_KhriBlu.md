@@ -2,7 +2,7 @@
 title: "Indexicals under role shift in Sign Language of the
 Netherlands (NGT): experimental insights"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/GLOW46/GLOW46_KhriBlu
 venue: "GLOW 46"
 date: 2023-04-13
