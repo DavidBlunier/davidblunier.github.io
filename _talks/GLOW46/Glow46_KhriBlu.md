@@ -1,0 +1,12 @@
+---
+title: "Indexicals under role shift in Sign Language of the
+Netherlands (NGT): experimental insights"
+collection: talks
+type: "Talk"
+permalink: /talks/GLOW46/GLOW46_KhriBlu
+venue: "GLOW 46"
+date: 2023-04-13
+location: "University of Vienna"
+---
+
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
