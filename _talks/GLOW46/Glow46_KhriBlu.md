@@ -9,4 +9,4 @@ date: 2023-04-13
 location: "University of Vienna"
 ---
 
-[Poster](./GLOW23_poster_v2.pdf)|[References](GLOW23_poster_Refs.pdf)
+[Poster](./GLOW23_poster_v2.pdf) | [References](GLOW23_poster_Refs.pdf)
