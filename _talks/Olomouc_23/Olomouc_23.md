@@ -8,4 +8,4 @@ date: 2023-06-10
 location: "University of Olomouc (CZ)"
 ---
 
-[Poster](./GLOW23_poster_v2.pdf) | [References](GLOW23_poster_Refs.pdf)
+[Poster](./Blunier_Olinco_Poster_2023.pdf) | [References](Blunier_Olinco_2023_Poster_Refs.pdf)
