@@ -1,4 +1,3 @@
-
 ---
 title: "The Pragmatics of Shifted Reference"
 collection: talks
