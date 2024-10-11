@@ -21,4 +21,4 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 
 [Cours 3: Théorie de l'esprit](./origines/Poitiers_Origines_Cours3.pdf)
 
-[Cours 4: Kanzi](./origines/Poitiers_Origines_Cours4_Kanzi.pdf)
+[Cours 4: Kanzi](./origines/Poitiers_Origines_Cours4.pdf)
