@@ -15,10 +15,10 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5743#section-0)
 
 
-[Cours 1: Deux hypothèses sur l'évolution du langage](./Poitiers_Origines_Cours1.pdf)
+[Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)
 
-[Cours 2: Évolution de l'homme](./Poitiers_Origines_Cours2.pdf)
+[Cours 2: Évolution de l'homme](./origines/Poitiers_Origines_Cours2.pdf)
 
-[Cours 3: Théorie de l'esprit](./Poitiers_Origines_Cours3.pdf)
+[Cours 3: Théorie de l'esprit](./origines/Poitiers_Origines_Cours3.pdf)
 
-[Cours 4: Kanzi](./Poitiers_Origines_Cours4_Kanzi.pdf)
+[Cours 4: Kanzi](./origines/Poitiers_Origines_Cours4_Kanzi.pdf)
