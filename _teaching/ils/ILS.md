@@ -15,8 +15,8 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5881)
 
 
-[Cours 1: Structure et hiérarchie dans les LSs](./Poitiers_LSF_Cours1.pdf)
+[Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)
 
-[Cours 2: Unités fondamentales à travers les modalités](./Poitiers_LSF_Cours2.pdf)
+[Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
 
-[Cours 3: Systèmes pronominaux](./Poitiers_LSF_Cours3.pdf)
+[Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
