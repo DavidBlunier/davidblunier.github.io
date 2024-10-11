@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Blunier's Personal Webpage"
+title                    : "David Blunier"
 title_separator          : "-"
 name                     : &name "David Blunier"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "David Blunier"
   pronouns         : # example: "she/her"  
   bio              : "Linguist"
-  location         : "Geneva, Switzerland"
-  employer         : "University of Geneva"
+  location         : "Poitiers, France"
+  employer         : "University of Poitiers"
   uri              : # URL
   email            : "david.lucas.simon@gmail.com" 
 
@@ -87,7 +87,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
