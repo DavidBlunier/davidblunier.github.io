@@ -22,7 +22,7 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 [Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
 
 
-## Programe
+## Programme
 
 |   |                  |
 |---|------------------|
