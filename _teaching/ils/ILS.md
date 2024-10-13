@@ -19,7 +19,7 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 ## Programme
 
 |   |                  | |
-|---|------------------| |
+|---|------------------|---|
 | 10.09 | Cours 1      | |
 | 17.09 | Pas de cours | |
 | 24.09 | Cours 2      | |
