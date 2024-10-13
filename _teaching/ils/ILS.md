@@ -22,17 +22,17 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 [Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
 
 
-## Programme
-|   |       |              |
+## Programe
+
 |---|-------|--------------|
-|   | 10.09 | Cours 1      |
-|   | 17.09 | Pas de cours |
-|   | 24.09 | Cours 2      |
-|   | 01.10 | Cours 3      |
-|   | 08.10 | Cours 4      |
-|   | 15.10 | Cours 5      |
-|   | 22.10 | Vacances     |
-|   | 29.10 | Pas de cours |
-|   | 05.11 | Cours 6 (18h-20h30)|
-|   | 12.11 | Présentation Wikis (18h-20h30)|
+| 10.09 | Cours 1      |
+| 17.09 | Pas de cours |
+| 24.09 | Cours 2      |
+| 01.10 | Cours 3      |
+| 08.10 | Cours 4      |
+| 15.10 | Cours 5      |
+| 22.10 | Vacances     |
+| 29.10 | Pas de cours |
+| 05.11 | Cours 6 (18h-20h30)|
+| 12.11 | Présentation Wikis (18h-20h30)|
 
