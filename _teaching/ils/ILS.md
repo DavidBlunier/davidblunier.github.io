@@ -14,14 +14,6 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5881)
 
-
-[Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)
-
-[Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
-
-[Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
-
-
 ## Programme
 
 |   |                  |
@@ -36,4 +28,16 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 | 29.10 | Pas de cours |
 | 05.11 | Cours 6 (18h-20h30)|
 | 12.11 | Présentation Wikis (18h-20h30)|
+
+
+## Supports de cours
+
+[Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)
+
+[Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
+
+[Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
+
+
+
 
