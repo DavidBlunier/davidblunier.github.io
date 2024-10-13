@@ -27,7 +27,7 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 | 08.10 | Cours 4      |
 | 15.10 | Cours 5      |
 | 22.10 | Vacances     |
-| 29.10 | Pas de cours |
+| 29.10 | Pas de cours - dépot des articles sur UPDago |
 | 05.11 | Cours 6 (18h-20h30)|
 | 12.11 | Présentation Wikis (18h-20h30)|
 
