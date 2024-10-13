@@ -16,6 +16,24 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5743#section-0)
 
 
+## Programme
+
+|   |                  |
+|---|------------------|
+| 11.09 | Cours 1      |
+| 18.09 | Pas de cours |
+| 25.09 | Cours 2      |
+| 02.10 | Cours 3      |
+| 09.10 | Cours 4      |
+| 16.10 | Atelier poster |
+| 23.10 | Vacances     |
+| 30.10 | Pas de cours |
+| 06.11 | Cours 5      |
+| 13.11 | Cours 6      |
+| 20.11 | Présentation posters I |
+| 27.11 | Présentation posters II |
+
+
 [Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)
 
 [Cours 2: Évolution de l'homme](./origines/Poitiers_Origines_Cours2.pdf)
