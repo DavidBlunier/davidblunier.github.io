@@ -27,11 +27,11 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 | 09.10 | Cours 4      |   |
 | 16.10 | Atelier poster |   |
 | 23.10 | Vacances     |   |
-| 30.10 | Pas de cours |  dépot des posters sur UPDago |
+| 30.10 | Cours en ligne / session de travail poster |   |
 | 06.11 | Cours 5      |   |
-| 13.11 | Cours 6      |   |
-| 20.11 | Présentation posters I |   |
-| 27.11 | Présentation posters II |   |
+| 13.11 | Cours en ligne / session de travail poster     |   |
+| 20.11 | Examen final (à déterminer) |   |
+| 27.11 | Examen final (à déterminer) |   |
 
 
 [Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)
