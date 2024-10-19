@@ -19,7 +19,7 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 ## Programme
 
 |   |                  | |
-|---|------------------|---|
+|---|------------------| |
 | 10.09 | Cours 1      | |
 | 17.09 | Pas de cours | |
 | 24.09 | Cours 2      | |
@@ -27,9 +27,12 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 | 08.10 | Cours 4      | |
 | 15.10 | Cours 5      | |
 | 22.10 | Vacances     | |
-| 29.10 | Pas de cours | dépot des articles sur UPDago |
+| 29.10 | Pas de cours | |
 | 05.11 | Cours 6 | 18h-20h30 |
 | 12.11 | Présentation Wikis  | 18h-20h30 |
+| 29.11 | Premier rendu Wikis  |  |
+| 10.12 | Atelier formatage Wikis  | Online |
+| 20.12 | Mise en ligne des Wikis  | |
 
 
 ## Supports de cours
