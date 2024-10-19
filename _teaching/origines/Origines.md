@@ -18,18 +18,19 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 
 ## Programme
 
-|   |                  |   |
-|---|------------------|---|
-| 11.09 | Cours 1      |   |
-| 18.09 | Cours en ligne / session de travail poster |   |
-| 25.09 | Cours 2      |   |
-| 02.10 | Cours 3      |   |
-| 09.10 | Cours 4      |   |
-| 16.10 | Atelier poster |   |
-| 23.10 | Vacances     |   |
-| 30.10 | Cours en ligne / session de travail poster |   |
-| 06.11 | Cours 5      |   |
-| 13.11 | Examen final    |  |
+|   |                  |
+|---|------------------|
+| 11.09 | Cours 1      |
+| 18.09 | Cours en ligne / session de travail poster |
+| 25.09 | Cours 2      |
+| 02.10 | Cours 3      |
+| 09.10 | Cours 4      |
+| 16.10 | Atelier poster |
+| 23.10 | Vacances     |
+| 30.10 | Cours en ligne / session de travail poster |
+| 06.11 | Cours 5      |
+| 13.11 | Examen final |
+| 20.12 | Dépôt des posters sur UPDago |
 
 
 [Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)
