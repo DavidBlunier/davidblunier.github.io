@@ -20,23 +20,23 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 
 |   |                  |
 |---|------------------|
-| 11.09 | Cours 1      |
+| 11.09 | [Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)      |
 | 18.09 | Cours en ligne / session de travail poster |
-| 25.09 | Cours 2      |
-| 02.10 | Cours 3      |
-| 09.10 | Cours 4      |
+| 25.09 | [Cours 2: Évolution de l'homme](./origines/Poitiers_Origines_Cours2.pdf)      |
+| 02.10 | [Cours 3: Théorie de l'esprit](./origines/Poitiers_Origines_Cours3.pdf)      |
+| 09.10 | [Cours 4: Kanzi](./origines/Poitiers_Origines_Cours4.pdf)      |
 | 16.10 | Atelier poster |
 | 23.10 | Vacances     |
 | 30.10 | Cours en ligne / session de travail poster |
-| 06.11 | Cours 5      |
+| 06.11 | [Cours 5: Sémantique et pragmatique des signaux d'alarme](./origines/Cours_5_Signaux d'alarme.pdf)       |
 | 13.11 | Examen final |
 | 20.12 | Dépôt des posters sur UPDago |
 
 
-[Cours 1: Deux hypothèses sur l'évolution du langage](./origines/Poitiers_Origines_Cours1.pdf)
 
-[Cours 2: Évolution de l'homme](./origines/Poitiers_Origines_Cours2.pdf)
 
-[Cours 3: Théorie de l'esprit](./origines/Poitiers_Origines_Cours3.pdf)
 
-[Cours 4: Kanzi](./origines/Poitiers_Origines_Cours4.pdf)
+
+
+
+
