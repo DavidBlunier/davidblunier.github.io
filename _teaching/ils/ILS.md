@@ -22,27 +22,14 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 |---|------------------|--|
 | 10.09 | [Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)     | |
 | 17.09 | Pas de cours | |
-| 24.09 | Cours 2      | |
-| 01.10 | Cours 3      | |
-| 08.10 | Cours 4      | |
-| 15.10 | Cours 5      | |
+| 24.09 | [Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)      | |
+| 01.10 | [Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)      | |
+| 08.10 | [Cours 4: Iconicité 1](./ils/ISL_Iconicite.pdf)     | |
+| 15.10 | Cours 5: Iconicité 1 (suite)     | |
 | 22.10 | Vacances     | |
 | 29.10 | Pas de cours | |
-| 05.11 | Cours 6 | 18h-20h30 |
+| 05.11 | [Cours 6: Iconicité 2](./ils/ISL_Iconicite_2.pdf) | 18h-20h30 |
 | 12.11 | Présentation Wikis  | 18h-20h30 |
 | 29.11 | Premier rendu Wikis  |  |
 | 10.12 | Atelier formatage Wikis  | Online |
 | 20.12 | Mise en ligne des Wikis  | |
-
-
-
-
-
-
-[Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
-
-[Cours 3: Systèmes pronominaux](./ils/Poitiers_LSF_Cours3.pdf)
-
-
-
-
