@@ -20,7 +20,7 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 
 |   |                  |  |
 |---|------------------|--|
-| 10.09 | Cours 1      | |
+| 10.09 | [Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)     | |
 | 17.09 | Pas de cours | |
 | 24.09 | Cours 2      | |
 | 01.10 | Cours 3      | |
@@ -35,9 +35,9 @@ Ce cours tentera de répondre à la question suivante: quelles sont les proprié
 | 20.12 | Mise en ligne des Wikis  | |
 
 
-## Supports de cours
 
-[Cours 1: Structure et hiérarchie dans les LSs](./ils/Poitiers_LSF_Cours1.pdf)
+
+
 
 [Cours 2: Unités fondamentales à travers les modalités](./ils/Poitiers_LSF_Cours2.pdf)
 
