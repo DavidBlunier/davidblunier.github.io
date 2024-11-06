@@ -29,8 +29,7 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 | 16.10 | Atelier poster |
 | 23.10 | Vacances     |
 | 30.10 | Cours en ligne / session de travail poster |
-| 06.11 | [Cours 5: Sémantique et pragmatique des signaux d'alarme](./origines/Cours_5_Signaux.pdf)
-[*Crash course* sur la pragmatique](Pragmatique.pdf)|
+| 06.11 | [Cours 5: Sémantique et pragmatique des signaux d'alarme](./origines/Cours_5_Signaux.pdf) [*Crash course* sur la pragmatique](Pragmatique.pdf)|
 | 13.11 | Examen final |
 | 20.12 | Dépôt des posters sur UPDago |
 
