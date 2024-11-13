@@ -15,7 +15,7 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 
 [Page institutionnelle](https://updago.univ-poitiers.fr/course/view.php?id=5743#section-0)
 
-[Références et citations APA: mini-guide](/supports/APA.pdf)
+[Références et citations APA: mini-guide](./supports/APA.pdf)
 
 
 
