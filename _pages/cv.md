@@ -20,7 +20,7 @@ Education
 Academic experience
 ======
 * Current: Teaching fellow (ATER), Université de Poitiers (France)
-  * Teaching undergraduate courses, including formal semantics, sign language linguistics, linguistic typology, introduction to linguistics and evolution.
+  * Teaching undergraduate courses, including formal semantics, sign language linguistics, linguistic typology, introduction to linguistics and language evolution.
 
 * Fall 2019: Teaching Assistant, University of Geneva (Switzerland)
   * Introduction to linguistics (undergraduate course), Profs Ur Shlonsky and Isabelle Charnavel
