@@ -1,6 +1,6 @@
 ---
 title: "Indexicals under role shift in Sign Language of the
-Netherlands (NGT): experimental insights"
+Netherlands (NGT): experimental insights (with J. Khristoforova)"
 collection: talks
 type: "Poster"
 permalink: /talks/GLOW46/GLOW46_KhriBlu
