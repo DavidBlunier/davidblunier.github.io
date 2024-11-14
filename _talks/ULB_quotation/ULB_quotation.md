@@ -1,0 +1,11 @@
+---
+title: "Rethinking quotation, cross-linguistically"
+collection: talks
+type: "Talk"
+permalink: /talks/ULB_quotation/ULB_quotation.md
+venue: "Workshop *Cross-disciplinary perspectives on quoting and speech reporting*"
+date: 2022-10-7
+location: "Université Libre de Bruxelles, Belgium"
+---
+
+[Slides](./ULB_quotation_2022.pdf)
