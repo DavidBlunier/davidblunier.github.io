@@ -3,6 +3,33 @@ body {
   line-height: 1;  /* Adjust line height if needed for readability */
 }
 
+/* The following customizes the sidebar
+
+/* Customize the font size of the sidebar */
+.sidebar {
+  font-size: 14px;  /* Adjust the font size for the entire sidebar */
+}
+
+/* Adjust the font size for the author's name */
+.author h2 {
+  font-size: 18px;  /* Set a larger font size for the author's name */
+}
+
+/* Adjust the font size for personal data (e.g., bio, details) */
+.author p {
+  font-size: 14px;  /* Set the font size for the bio or personal details */
+}
+
+/* Optional: Adjust the profile picture size */
+.author img {
+  width: 100px;  /* Set a specific width for the profile picture */
+  height: 100px; /* Set a specific height for the profile picture */
+  border-radius: 50%; /* Make the image circular (optional) */
+}
+
+
+/* The following customizes the size of tables in .md files
+
 /* Customize table font size */
 table {
   font-size: 15px;  /* Adjust the font size for the whole table */
