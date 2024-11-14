@@ -2,3 +2,19 @@ body {
   font-size: 15px !important;  /* Use !important to override any conflicting styles */
   line-height: 1;  /* Adjust line height if needed for readability */
 }
+
+/* Customize table font size */
+table {
+  font-size: 15px;  /* Adjust the font size for the whole table */
+}
+
+/* Optionally, change font size for table headers */
+th {
+  font-size: 15px;  /* Set a larger font size for table headers */
+}
+
+/* Change font size for table data cells */
+td {
+  font-size: 15px;  /* Adjust the font size for table data cells */
+}
+
