@@ -35,7 +35,7 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 | 13.11 | Examen final |
 | 20.12 | Dépôt des posters sur UPDago |
 
-
+---
 **Articles à choix pour présentations/posters**
 
 *Langage et évolution*
