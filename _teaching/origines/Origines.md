@@ -36,7 +36,7 @@ Durant ce cours, nous tenterons de comprendre comment les travaux récents en bi
 | 20.12 | Dépôt des posters sur UPDago |
 
 ---
-**Articles à choix pour présentations/posters**
+## Articles à choix pour présentations/posters
 
 *Langage et évolution*
 - Tattersall, I. (2014). [An evolutionary context for the emergence of language](https://www.sciencedirect.com/science/article/pii/S0388000114000527?casa_token=PleoD6mBVyMAAAAA:ukiOO2B-B8t0dKuhpONDcS_uWDgoO6AlNJlTMmQL2vqdplslSxbOWTFgr0Xn0PNQAilymEkPD1xy). *Language Sciences*, Volume 46, Part B, November 2014, Pages 199-206.
