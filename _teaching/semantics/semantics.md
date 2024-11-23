@@ -40,5 +40,5 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 | 18.03 | Cours 8: Logique des prédicats 2 | TD 3 |
 | 25.03 | Cours 9: Lambda-calcul 1  | TD 4 |
 | 01.04 | Cours 10: Lambda-calcul 2  | TD 5 |
-| 08.04 | Cours 11: Application fonctionnelle 1  | TD 6 |
-| 15.04 | Cours 12: Application fonctionnelle 2  |  |
+| 08.04 | Cours 11: Application de fonction 1  | TD 6 |
+| 15.04 | Cours 12: Application de fonction 2  |  |
