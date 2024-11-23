@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/semantics
 venue: "Université de Poitiers"
-date: Spring 2025
+date: 23.11.2024
 location: "Poitiers, France"
 ---
 
