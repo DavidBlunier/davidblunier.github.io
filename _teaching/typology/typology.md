@@ -18,7 +18,7 @@ location: "Poitiers, France"
 
 
 ## Modalités d'évaluation
-Le cours sera évalué sur la base de deux travaux, effectués en groupe. Le premier sera l'élaboration d'un poster scientifique à partir d'un article (cf. liste des articles à choix ci-dessous); le deuxième travail sera la préparation d'un travail de terrain linguistique, dont les résultats seront présentés lors des dernières séances du cours, puis évalué sur la base d'un rapport de terrain.
+Le cours sera évalué sur la base d'un travail de terrain linguistique, effectué en groupe, donnant lieu à deux évaluations écrites. La première consistera en la rédaction d'un rapport théorique sur un phénomène à choix dans une langue donnée, à partir des sujets vus en cours; la seconde portera sur la récolte et le traitement des données linguistiques liées au phénomène en question dans une langue donnée, donnant lieu à un rapport final. Les travaux de terrain seront successivement présentés durant les dernières sessions du cours.
 
 
 
