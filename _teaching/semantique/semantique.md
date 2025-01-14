@@ -2,7 +2,7 @@
 title: "Sémantique formelle"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/semantics
+permalink: /teaching/semantique
 venue: "Université de Poitiers"
 date: 23.11.2024
 location: "Poitiers, France"
