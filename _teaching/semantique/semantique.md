@@ -32,16 +32,16 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 
 |   |                  |  |
 |---|------------------|--|
-| 21.01 | Cours 1: Une sémantique compositionnelle pour les langues naturelles     | |
-| 28.01 | Cours 2: Fondations théoriques | |
-| 04.02 | Cours 3: Ensembles      | |
-| 11.02 | Cours 4: Relations et fonctions      | |
-| 18.02 | Cours 5: Logique propositionnelle 1     | |
+| 21.01 | Cours 1: Introduction     | |
+| 28.01 | Cours 2: logique propositionnelle 1 | |
+| 04.02 | Cours 3: Logique propositionnelle 2      | |
+| 11.02 | Cours 4: Ensembles      | |
+| 18.02 | Cours 5: Relations et fonctions     | |
 | 25.02 | Vacances de février     | |
-| 04.03 | Cours 6: Logique propositionnelle 2     | TD 1 |
-| 11.03 | Cours 7: Logique des prédicats 1 | TD 2 |
-| 18.03 | Cours 8: Logique des prédicats 2 | TD 3 |
-| 25.03 | Cours 9: Lambda-calcul 1  | TD 4 |
-| 01.04 | Cours 10: Lambda-calcul 2  | TD 5 |
-| 08.04 | Cours 11: Application de fonction 1  | TD 6 |
-| 15.04 | Cours 12: Application de fonction 2  |  |
+| 04.03 | Cours 6: Logique des prédicats 1    | TD 1 |
+| 11.03 | Cours 7: Logique des prédicats 2 | TD 2 |
+| 18.03 | Cours 8: Lambda-calcul 1 | TD 3 |
+| 25.03 | Cours 9: Lambda-calcul 2  | TD 4 |
+| 01.04 | Cours 10: Application de fonction 1  | TD 5 |
+| 08.04 | Cours 11: Application de fonction 2  | TD 6 |
+| 15.04 | Cours 12: Autres règles de composition: prédicats, pronoms  |  |
