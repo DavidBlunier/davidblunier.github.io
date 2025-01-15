@@ -2,7 +2,7 @@
 title: "Typologie linguistique"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/typology
+permalink: /teaching/typologie
 venue: "Université de Poitiers"
 date: 23.11.2024
 location: "Poitiers, France"
