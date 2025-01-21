@@ -9,7 +9,7 @@ location: "Poitiers, France"
 ---
 
 -----------------------------------------------------------------------------------------------
-
+Ce cours est une introduction à la typologie linguistique. Il couvrira les notions théoriques de base nécessaires à l'analyse et au traitement de données linguistiques simples, dans une perspective comparative.
 
 
 [Mini-guide pour les citations et les références APA](./ils/supports/APA.pdf)
