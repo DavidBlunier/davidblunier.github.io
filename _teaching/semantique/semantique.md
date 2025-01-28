@@ -34,7 +34,7 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 
 |   |                  |  |
 |---|------------------|--|
-| 21.01 | Cours 1: Introduction     | |
+| 21.01 | [Cours 1: Introduction](S)     | |
 | 28.01 | Cours 2: logique propositionnelle 1 | |
 | 04.02 | Cours 3: Logique propositionnelle 2      | |
 | 11.02 | Cours 4: Ensembles      | |
