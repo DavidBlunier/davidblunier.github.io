@@ -14,6 +14,8 @@ location: "Poitiers, France"
 
 Ce cours est une introduction à la sémantique formelle. Il vise à donner aux étudiant.e.s les bases nécessaires à la compréhension et à l'utilisation de données formelles en linguistique (théorie des ensembles, logique propositionnelle, logique du premier ordre), ainsi qu'à présenter une version du langage formel le plus utilisé en linguistique, le lambda-calcul typé.
 
+[Page institutionnelle (UPDago)](https://updago.univ-poitiers.fr/course/view.php?id=8422)
+
 Manuel du cours: Coppock, E. & Champollion, L. (2024), [Invitation to formal semantics](https://eecoppock.info/bootcamp/semantics-boot-camp.pdf)
 
 ## Où et quand?
