@@ -28,7 +28,7 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 
 |   |                  |  |
 |---|------------------|--|
-| 15.01 | Cours 1: Typologie linguistique: fondations     | |
+| 15.01 | [Cours 1: Typologie linguistique: fondations](./typologie/cours/Typ_1_Intro_Fondations.pdf)     | |
 | 22.01 | Cours 2: Phonologie | |
 | 29.01 | Cours 3: Morphologie      | |
 | 05.02 | Cours 4: Lexique      | |
