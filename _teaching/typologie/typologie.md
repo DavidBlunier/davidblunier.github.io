@@ -16,6 +16,8 @@ Ce cours est une introduction à la typologie linguistique. Il couvrira les noti
 
 [Mini-guide sur les gloses en linguistique](./ils/supports/Gloses.pdf)
 
+[The World Atlas of Language Structures (WALS)](https://wals.info/)
+
 
 ## Modalités d'évaluation
 Le cours sera évalué sur la base d'un travail de terrain linguistique, effectué en groupe, donnant lieu à deux évaluations écrites. La première consistera en la rédaction d'un rapport théorique sur un phénomène à choix dans une langue donnée, à partir des sujets vus en cours; la seconde portera sur la récolte et le traitement des données linguistiques liées au phénomène en question dans une langue donnée, donnant lieu à un rapport final. Les travaux de terrain seront successivement présentés durant les dernières sessions du cours.
