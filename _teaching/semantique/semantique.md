@@ -34,8 +34,8 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 
 |   |                  |  |
 |---|------------------|--|
-| 21.01 | [Cours 1: Introduction](./cours/Sem_1_Intro.pdf)     | |
-| 28.01 | [Cours 2: logique propositionnelle 1](./cours/Sem_2_Fondations.pdf) | |
+| 21.01 | [Cours 1: Introduction](./semantique/cours/Sem_1_Intro.pdf)     | |
+| 28.01 | [Cours 2: logique propositionnelle 1](./semantique/cours/Sem_2_Fondations.pdf) | |
 | 04.02 | Cours 3: Logique propositionnelle 2      | |
 | 11.02 | Cours 4: Ensembles      | |
 | 18.02 | Cours 5: Relations et fonctions     | |
