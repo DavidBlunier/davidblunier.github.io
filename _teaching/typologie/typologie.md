@@ -29,7 +29,6 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 
 ## Programme (provisoire)
 
-|   |                  |  |
 |---|------------------|--|
 | 15.01 | Cours 1: Introduction | |
 | 22.01 |[Cours 2: Typologie linguistique: fondations](./typologie/cours/Typ_1_Intro_Fondations.pdf) | |
