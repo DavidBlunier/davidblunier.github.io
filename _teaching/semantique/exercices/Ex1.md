@@ -1,7 +1,7 @@
 ---
 title: "Exercices série 1"
 permalink: semantique/exercices/Ex1/
-layout: compress
+layout: default
 published: true
 hidden: true
 ---
