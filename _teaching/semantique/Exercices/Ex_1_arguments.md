@@ -1,7 +1,9 @@
 ---
 title: "Exercices série 1"
-permalink: /Exercices/Ex_1_arguments
+permalink: semantique/exercices/Ex_1_arguments
 layout: single
+published: true
+hidden: true
 ---
 
 ## Exercices série 1
