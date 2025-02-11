@@ -6,10 +6,7 @@ mathjax: true
 published: true
 hidden: true
 ---
-
-## Exercices série 2
-
-### Logique propositionnelle
+## Logique propositionnelle
 
 1. Construisez un argument d'après le *modus ponens*.
 
