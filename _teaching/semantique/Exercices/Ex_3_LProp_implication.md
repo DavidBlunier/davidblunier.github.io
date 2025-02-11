@@ -2,7 +2,7 @@
 
 ### Logique propositionnelle, implication
 
-1. Prouvez l'équivalence suivante avec une table de vérité: [$p \rightarrow q] \equiv [\neg p \lor q]$.
+1. Prouvez l'équivalence suivante avec une table de vérité: $[p \rightarrow q] \equiv [\neg p \lor q]$.
 2. Les tables de vérité nous permettent de déterminer si un argument est valide ou non: ce sera le cas ssi **la conclusion est vraie dans tous les cas où les prémisses sont vraies également**. Construisez une table de vérité prouvant la validité du *Modus Tollens*.
 
 > Rappel: *Modus Tollens*  
