@@ -1,3 +1,9 @@
+---
+title: "Exercices série 1"
+permalink: /Exercices/Ex_1_arguments.md
+layout: single
+---
+
 ## Exercices série 1
 
 ### Arguments, relations logiques
