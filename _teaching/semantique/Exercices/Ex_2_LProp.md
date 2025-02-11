@@ -32,8 +32,10 @@
 
 6. Une des lois de De Morgan est l'équivalence suivante:
 > $\neg [p \wedge q]\equiv [\neg p \lor \neg q]$.
+
 En utilisant la table de vérité que vous venez d'établir, prouvez cette équivalence.
 
 9. Une autre loi de De Morgan est l'équivalence suivante:
 > $\neg [p \lor q]\equiv [\neg p \wedge \neg q]$.
+
 Construisez la table de vérité nécessaire à prouver cette équivalence.
