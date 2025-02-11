@@ -1,6 +1,6 @@
 ---
 title: "Exercices série 3"
-permalink: semantique/exercices/Ex3
+permalink: semantique/exercices/Ex3/
 layout: archive
 mathjax: true
 published: true
