@@ -1,4 +1,6 @@
-## Exercices série 2: logique propositionnelle
+## Exercices série 2
+
+### Logique propositionnelle
 
 > Rappel: *Modus Ponens*  
 > $p \rightarrow q$  
