@@ -35,7 +35,7 @@
 
 En utilisant la table de vérité que vous venez d'établir, prouvez cette équivalence.
 
-9. Une autre loi de De Morgan est l'équivalence suivante:
+7. Une autre loi de De Morgan est l'équivalence suivante:
 > $\neg [p \lor q]\equiv [\neg p \wedge \neg q]$.
 
 Construisez la table de vérité nécessaire à prouver cette équivalence.
