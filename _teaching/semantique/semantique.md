@@ -33,9 +33,9 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 |   |                  |  |
 |---|------------------|--|
 | 21.01 | [Cours 1: Introduction](./semantique/cours/Sem_1_Intro.pdf)     | |
-| 28.01 | [Cours 2: Fondations logiques](./semantique/cours/Sem_2_Fondations.pdf) | [Exercices](/semantique/exercices/Ex1/) |
-| 04.02 | [Cours 3: Logique propositionnelle](./semantique/cours/Sem_3_LP.pdf)     | |
-| 11.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)      | |
+| 28.01 | [Cours 2: Fondations logiques](./semantique/cours/Sem_2_Fondations.pdf) | [Exercices: arguments, relations logiques](/semantique/exercices/Ex1/) |
+| 04.02 | [Cours 3: Logique propositionnelle](./semantique/cours/Sem_3_LP.pdf)     | [Exercices: logique propositionnelle](/semantique/exercices/Ex2/) |
+| 11.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)      | [Exercices: LProp, implication](/semantique/exercices/Ex3/) |
 | 18.02 | Cours 5: Logique des prédicats     | |
 | 25.02 | Vacances de février     | Rendu du premier travail |
 | 04.03 | Cours 6: Quantification et fonctions    | TD 1 |
