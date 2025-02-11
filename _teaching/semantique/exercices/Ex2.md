@@ -1,7 +1,8 @@
 ---
 title: "Exercices série 2"
 permalink: semantique/exercices/Ex2
-layout: single
+layout: archive
+mathjax: true
 published: true
 hidden: true
 ---
