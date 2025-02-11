@@ -1,4 +1,6 @@
-# Exercices série 1: arguments, relations logiques
+## Exercices série 1
+
+### Arguments, relations logiques
 
 1. Parmi les arguments suivants, lesquels sont **valides**? Lesquels sont **solides**?
 
