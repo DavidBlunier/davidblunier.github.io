@@ -1,14 +1,13 @@
 ---
 title: "Exercices série 3"
 permalink: semantique/exercices/Ex3
-layout: single
+layout: archive
+mathjax: true
 published: true
 hidden: true
 ---
 
-## Exercices série 3
-
-### Logique propositionnelle, implication
+## Logique propositionnelle, implication
 
 1. Prouvez l'équivalence suivante avec une table de vérité:
    > $[p \rightarrow q] \equiv [\neg p \lor q]$.
