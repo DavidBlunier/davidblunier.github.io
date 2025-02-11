@@ -1,8 +1,7 @@
 ---
 title: "Exercices série 1"
 permalink: semantique/exercices/Ex1/
-date: 2025-11-02
-layout: single
+layout: compress
 published: true
 hidden: true
 ---
