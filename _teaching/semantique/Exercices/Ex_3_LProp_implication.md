@@ -23,6 +23,6 @@
    1. $[p \rightarrow q]$; $[\neg q \rightarrow \neg p]$
    2. $[p \rightarrow p]$; $[p \lor \neg p]$
 
-4. Lesquelles des formules suivantes sont des tautologies? Des contradictions?
+4. Lesquelles des formules suivantes sont des tautologies? Lesquelles sont des contradictions?
    1. $[[p \rightarrow q] \lor [q \rightarrow p]]$
    2. $[[p \rightarrow q] \leftrightarrow [\neg q \lor \neg p]]$
