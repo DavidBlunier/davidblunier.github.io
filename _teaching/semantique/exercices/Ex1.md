@@ -1,10 +1,10 @@
 ---
 title: "Exercices série 1"
 collection: teaching
-type: " "
+type: "Sémantique formelle"
 permalink: semantique/exercices/Ex1/
-venue: " "
-date: 11.2.25
+venue: "Université de Poitiers"
+date: 2025
 location: "Poitiers, France"
 layout: single
 published: true
