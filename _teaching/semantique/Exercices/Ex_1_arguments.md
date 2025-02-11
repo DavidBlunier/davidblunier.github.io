@@ -1,6 +1,6 @@
 ---
 title: "Exercices série 1"
-permalink: /Exercices/Ex_1_arguments.md
+permalink: teaching/semantique/Exercices/Ex_1_arguments
 layout: single
 ---
 
