@@ -1,14 +1,17 @@
 ---
 title: "Exercices série 1"
+collection: teaching
+type: " "
 permalink: semantique/exercices/Ex1/
+venue: " "
+date: 11.2.25
+location: "Poitiers, France"
 layout: single
 published: true
 hidden: true
 ---
 
-## Exercices série 1
-
-### Arguments, relations logiques
+## Arguments, relations logiques
 
 1. Parmi les arguments suivants, lesquels sont **valides**? Lesquels sont **solides**?
 
