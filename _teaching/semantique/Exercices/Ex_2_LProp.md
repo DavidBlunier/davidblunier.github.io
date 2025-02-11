@@ -2,19 +2,19 @@
 
 ### Logique propositionnelle
 
+1. Construisez un argument d'après le *modus ponens*.
+
 > Rappel: *Modus Ponens*  
 > $p \rightarrow q$  
 > $p$  
 > $\therefore q$
 
-1. Construisez un argument d'après le *modus ponens*.
+2. Construisez un argument fallacieux employant l'affirmation du conséquent.
 
 > Rappel: Affirmation du conséquent (fallacie)  
 > $p \rightarrow q$  
 > $q$  
 > $\not \therefore p$
-
-2. Construisez un argument fallacieux employant l'affirmation du conséquent.
 
 3. Voici deux autres types d'arguments. D'après vous, lequel est un type d'argument valide? Lequel est une fallacie? Expliquez pourquoi.
 
