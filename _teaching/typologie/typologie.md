@@ -23,7 +23,21 @@ Ce cours est une introduction à la typologie linguistique. Il couvrira les noti
 
 
 ## Modalités d'évaluation
-Le cours sera évalué sur la base d'un travail de terrain linguistique, effectué en groupe, donnant lieu à deux évaluations écrites. La première consistera en la rédaction d'un rapport théorique sur un phénomène à choix dans une langue donnée, à partir des sujets vus en cours; la seconde portera sur la récolte et le traitement des données linguistiques liées au phénomène en question dans une langue donnée, donnant lieu à un rapport final. Les travaux de terrain seront successivement présentés durant les dernières sessions du cours.
+Le cours sera évalué sur la base d'un travail de terrain linguistique, effectué en groupe, donnant lieu à une évaluation écrite. L'évaluation consistera en la rédaction d'un rapport de terrain sur un phénomène à choix dans une langue donnée, à partir des sujets vus en cours; ce travail portera sur la récolte et l'analyse de données linguistiques, obtenues via différentes méthodes (recherches sur corpus, élicitation). Les travaux de terrain dans leur état actuel seront successivement présentés durant les dernières sessions du cours.
+
+### Organisation des présentations
+
+- Chaque groupe présentera les débuts de son travail de terrain pendant environ **6-7 minutes**.
+- Chaque groupe se verra assigné un groupe répondant, travaillant sur une problématique similaire, chargé de préparer et de poser une question une fois la présentation terminée.
+
+### Structures des présentations
+
+- Il s'agit d'une exposition préparatoire de vos recherches et vous devez la penser comme telle. Il s'agit essentiellement de nous donner un aperçu de votre objet de recherche, ainsi que des questions suscitées par votre problématique.
+- Vos présentations doivent être concises et contenir minimalement les éléments suivants:
+
+1. Une présentation typologique générale de la langue que vous étudiez: sa famille, son genre, ses caractéristiques typologiques principales (aidez-vous du WALS).
+2. Une présentation de votre sujet de recherche.
+3. Une présentation de vos premières données (élicitées ou non).
 
 
 
