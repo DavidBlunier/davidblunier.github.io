@@ -30,7 +30,7 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 - Chaque groupe présentera les débuts de son travail de terrain pendant environ **6-7 minutes**.
 - Chaque groupe se verra assigné un groupe répondant, travaillant sur une problématique similaire, chargé de préparer et de poser une question une fois la présentation terminée.
 
-### Structures des présentations
+### Structure des présentations
 
 - Il s'agit d'une exposition préparatoire de vos recherches et vous devez la penser comme telle. Il s'agit essentiellement de nous donner un aperçu de votre objet de recherche, ainsi que des questions suscitées par votre problématique.
 - Vos présentations doivent être concises et contenir minimalement les éléments suivants:
