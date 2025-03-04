@@ -49,11 +49,11 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 | 22.01 |[Cours 2: Typologie linguistique: fondations](./typologie/cours/Typ_1_Intro_Fondations.pdf) | |
 | 29.01 |[Cours 3: Phonologie](./typologie/cours/Typ_2_Phono.pdf) | |
 | 05.02 | Cours 4: Morphologie      | |
-| 12.02 | Cours 5: Syntaxe     | |
-| 19.02 | Cours 6: Méthodologie de la recherche de terrain     | |
+| 12.02 | Cours annulé (grève des étudiant.e.s)     | |
+| 19.02 | Cours annulé (grève des étudiant.e.s)     | |
 | 26.02 | Vacances de février     | |
-| 05.03 | Cours 7: Clauses simples | |
-| 12.03 | Cours 8: Ordre des mots |  |
+| 05.03 | Cours 5: Méthodologie de la recherche de terrain | |
+| 12.03 | Cours 6: Syntaxe |  |
 | 19.03 | Présentation des terrains  |  |
 | 26.03 | Présentation des terrains  |  |
 | 02.04 | Présentation des terrains  | |
