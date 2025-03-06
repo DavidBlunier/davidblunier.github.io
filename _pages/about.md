@@ -14,7 +14,7 @@ A significant part of my research focuses on sign language and the role of modal
 
 Other topics I'm interested in include demonstratives, implicatures and the role of alternatives and competition in natural language, co‑ and pro-speech gestures, and speech reports.
 
-My other interests are, among many, calisthenics, opera, poetry and cinema, not necessarily in that order.
+My non-academical interests are, among many, calisthenics, opera, poetry and cinema, not necessarily in that order.
 
  
 
