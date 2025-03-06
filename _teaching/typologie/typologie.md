@@ -53,7 +53,7 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 | 19.02 | Cours annulé (grève des étudiant.e.s)     | |
 | 26.02 | Vacances de février     | |
 | 05.03 | [Cours 5: Méthodologie de la recherche de terrain](./typologie/cours/Typologie_elicitation.pdf) | |
-| 12.03 | Cours 6: Syntaxe |  |
+| 12.03 | Cours 6: Syntaxe + [*Crash course* sur la syntaxe](./typologie/cours/Crash_Syntaxe.pdf) |  |
 | 19.03 | Présentation des terrains  |  |
 | 26.03 | Présentation des terrains  |  |
 | 02.04 | Présentation des terrains  | |
