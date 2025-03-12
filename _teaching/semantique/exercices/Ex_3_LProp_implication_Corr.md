@@ -1,4 +1,11 @@
-## Exercices série 3
+---
+title: "Exercices série 3, Corrigé"
+permalink: semantique/exercices/Ex3_Corr/
+layout: archive
+mathjax: true
+published: true
+hidden: true
+---
 
 ## Logique propositionnelle, implication
 
