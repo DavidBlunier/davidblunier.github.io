@@ -7,8 +7,7 @@ published: true
 hidden: true
 ---
 
-
-# Exercices série 1: arguments, relations logiques
+## Exercices série 1: arguments, relations logiques
 
 > Rappel: un argument **valide** est un argument dont la conclusion découle logiquement des prémisses. Un argument **solide** est un argument **valide** dont les prémisses et la conclusion sont **vraies dans notre modèle (monde)**.
 
