@@ -1,3 +1,12 @@
+---
+title: "Exercices série 2, Corrigé"
+permalink: semantique/exercices/Ex2_Corr/
+layout: archive
+mathjax: true
+published: true
+hidden: true
+---
+
 ## Exercices série 2: logique propositionnelle
 
 > Rappel: *Modus Ponens*  
