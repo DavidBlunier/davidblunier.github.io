@@ -1,6 +1,6 @@
 ---
-title: "Exercices série 1 Corrigé"
-permalink: semantique/exercices/Ex3/
+title: "Exercices série 1, Corrigé"
+permalink: semantique/exercices/Ex1_Corr/
 layout: archive
 mathjax: true
 published: true
