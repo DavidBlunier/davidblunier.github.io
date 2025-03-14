@@ -41,6 +41,8 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 
 Attention au temps de présentation! Ne mettez pas trop de contenu sur une seule diapositive (lisibilité) et pensez à cette formule: 1 diapositive commentée = 1 minute. Votre présentation ne devrait donc pas contenir plus de **7 diapositives**, afin de laisser du temps aux questions.
 
+[Exemple de présentation](./typologie/Exemple_presentation.pdf)
+
 
 
 ## Programme (provisoire)
