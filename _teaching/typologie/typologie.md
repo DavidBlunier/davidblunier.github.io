@@ -39,6 +39,8 @@ Le cours sera évalué sur la base d'un travail de terrain linguistique, effectu
 2. Une présentation de votre sujet de recherche.
 3. Une présentation de vos premières données (élicitées ou non).
 
+Attention au temps de présentation! Ne mettez pas trop de contenu sur une seule diapositive (lisibilité) et pensez à cette formule: 1 diapositive commentée = 1 minute. Votre présentation ne devrait donc pas contenir plus de **7 diapositives**, afin de laisser du temps aux questions.
+
 
 
 ## Programme (provisoire)
