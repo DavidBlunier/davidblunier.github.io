@@ -19,10 +19,10 @@ hidden: true
    5. Personne n'est une île.  
    $\neg \exists x. ile(x) \equiv \forall x. \neg ile(x)$
    6. Chaque étudiante s'aime.  
-   $\forall x. étudiante(x) \rightarrow aime(x,x)$
+   $\forall x. [étudiante(x) \rightarrow aime(x,x)]$
    7. Chaque étudiante aime une étudiante.  
-   $\exists y. étudiante (y) \land [\forall x. étudiante(x) \rightarrow aime(x,y)]$ (interprétation collective);  
-   $\forall x. étudiante(x) \rightarrow [\exists y. étudiante(y) \land aime(x,y)]$ (interprétation distributive).
+   $\exists y. [étudiante (y) \land [\forall x. étudiante(x) \rightarrow aime(x,y)]]$ (interprétation collective);  
+   $\forall x. [étudiante(x) \rightarrow [\exists y. étudiante(y) \land aime(x,y)]]$ (interprétation distributive).
    8. Donald Trump est blond.  
    $blond(dt)$
    9. Tous les *soprani* sont des chanteuses.  
