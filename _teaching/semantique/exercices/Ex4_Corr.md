@@ -10,7 +10,7 @@ hidden: true
 ## Logique des prédicats
 
 1. Traduisez les expressions suivantes dans LPred:
-   1. Tous les animaux sont des truites.
+   1. Tous les animaux sont des truites.  
    $\forall x. [animal(x) \rightarrow truite(x)$]
    3. Selina a faim.  
    $faim(s)$
