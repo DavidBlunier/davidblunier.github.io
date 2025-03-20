@@ -1,5 +1,5 @@
 ---
-title: "Exercices série 3 (suite), Corrigé"
+title: "Exercices série 3, Corrigé"
 permalink: semantique/exercices/Ex3_Corr/
 layout: archive
 mathjax: true
