@@ -10,25 +10,26 @@ hidden: true
 ## Logique des prédicats
 
 1. Traduisez les expressions suivantes dans LPred:
-   1. Tous les animaux sont des truites.  $\forall x. [animal(x) \rightarrow truite(x)$]
-   2. Selina a faim.  
+   1. Tous les animaux sont des truites.
+   $\forall x. [animal(x) \rightarrow truite(x)$]
+   3. Selina a faim.  
    $faim(s)$
-   3. Selina joue avec Fido.  
+   4. Selina joue avec Fido.  
    $joue(s,f)$
-   4. Personne n'est une île.  
+   5. Personne n'est une île.  
    $\neg \exists x. ile(x) \equiv \forall x. \neg ile(x)$
-   5. Chaque étudiante s'aime.  
+   6. Chaque étudiante s'aime.  
    $\forall x. étudiante(x) \rightarrow aime(x,x)$
-   6. Chaque étudiante aime une étudiante.  
+   7. Chaque étudiante aime une étudiante.  
    $\exists y. étudiante (y) \land [\forall x. étudiante(x) \rightarrow aime(x,y)]$ (interprétation collective);  
    $\forall x. étudiante(x) \rightarrow [\exists y. étudiante(y) \land aime(x,y)]$ (interprétation distributive).
-   7. Donald Trump est blond.  
+   8. Donald Trump est blond.  
    $blond(dt)$
-   8. Tous les *soprani* sont des chanteuses.  
+   9. Tous les *soprani* sont des chanteuses.  
    $\forall x. [soprano(x) \rightarrow chanteuse(x)]$
-   9. Aucun baryton n'est une femme.  
+   10. Aucun baryton n'est une femme.  
    $\neg \exists x. [baryton(x) \land femme(x)] \equiv \forall x. \neg [baryton(x) \rightarrow femme(x)]$
-   10. Tous les chanteurs sont soit des basses, soit des barytons, soit des ténors.  
+   11. Tous les chanteurs sont soit des basses, soit des barytons, soit des ténors.  
    $\forall x. [chanteur(x) \rightarrow [basse(x) \lor baryton(x) \lor ténor(x)]]$
 
 2. Paraphrasez les expressions de LPred suivantes en français:
