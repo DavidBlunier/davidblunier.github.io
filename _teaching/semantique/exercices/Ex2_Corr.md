@@ -7,7 +7,7 @@ published: true
 hidden: true
 ---
 
-## Exercices série 2: logique propositionnelle
+## Logique propositionnelle
 
 > Rappel: *Modus Ponens*  
 > $p \rightarrow q$  
