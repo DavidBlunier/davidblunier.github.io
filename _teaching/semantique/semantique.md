@@ -30,12 +30,12 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 
 ## Programme
 
-|   |                  |  | |
-|---|------------------|--|---|
-| 21.01 | [Cours 1: Introduction](./semantique/cours/Sem_1_Intro.pdf)     | | |
-| 28.01 | [Cours 2: Fondations logiques](./semantique/cours/Sem_2_Fondations.pdf) | [Exercices](/semantique/exercices/Ex1/)  | [Corrigé](/semantique/exercices/Ex1_Corr/) |
-| 04.02 | [Cours 3: Logique propositionnelle](./semantique/cours/Sem_3_LP.pdf)     | [Exercices](/semantique/exercices/Ex2/) | [Corrigé](/semantique/exercices/Ex2_Corr/) |
-| 11.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)      | [Exercices](/semantique/exercices/Ex3/) | [Corrigé](/semantique/exercices/Ex3_Corr/) | |
+|   |                  |  |  |
+|---|------------------|--|---
+| 21.01 | [Cours 1: Introduction](./semantique/cours/Sem_1_Intro.pdf)     | |
+| 28.01 | [Cours 2: Fondations logiques](./semantique/cours/Sem_2_Fondations.pdf) | [Exercices](/semantique/exercices/Ex1/)  | [Corrigé](/semantique/exercices/Ex1_Corr/)
+| 04.02 | [Cours 3: Logique propositionnelle](./semantique/cours/Sem_3_LP.pdf)     | [Exercices](/semantique/exercices/Ex2/) | [Corrigé](/semantique/exercices/Ex2_Corr/)
+| 11.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)      | [Exercices](/semantique/exercices/Ex3/) | [Corrigé](/semantique/exercices/Ex3_Corr/)
 | 18.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)   | |
 | 25.02 | Vacances de février     |  |
 | 04.03 | [Cours 4: Logique des prédicats 1](./semantique/cours/Sem_4_LPred.pdf) | [Exercices](/semantique/exercices/Ex4/) | [Corrigé](/semantique/exercices/Ex4_Corr/)
