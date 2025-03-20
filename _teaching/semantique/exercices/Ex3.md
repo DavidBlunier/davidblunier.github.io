@@ -7,7 +7,7 @@ published: true
 hidden: true
 ---
 
-## Logique propositionnelle, implication
+## Logique propositionnelle (suite)
 
 1. Prouvez l'équivalence suivante avec une table de vérité:
    > $[p \rightarrow q] \equiv [\neg p \lor q]$.
