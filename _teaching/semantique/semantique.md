@@ -44,4 +44,4 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 | 25.03 | Cours 7: Lambda-calcul 2  |  |
 | 01.04 | Cours 8: Application de fonction 1  |  |
 | 08.04 | Cours 9: Application de fonction 2  |  |
-| 15.04 | Cours 10: Autres règles de composition: prédicats, pronoms  |   |
+| 08.04 | Cours 10: Autres règles de composition: prédicats, pronoms  |   |
