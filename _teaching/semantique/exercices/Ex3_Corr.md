@@ -48,7 +48,7 @@ Ce qui nous donne la table de vérité suivante:
 > | 0 | 0 | **1**
 > | 1 | 1 | **1**
 
-Comme le montre la dernière colonne, la valeur de l'implication matérielle partant de la conjonction des deux prémisses P1 et P2 à la conclusion C est **vraie dans tous les modèles**; la conclusion découle donc nécessairement des prémisses, le *modus tollens* est donc une forme d'argument logiquement valide.
+Comme le montre la dernière colonne, la valeur de l'implication matérielle partant de la conjonction des deux prémisses P1 et P2 à la conclusion C est **vraie dans tous les modèles**; la conclusion découle nécessairement des prémisses, le *modus tollens* est donc une forme d'argument logiquement valide.
 
 1. De la même manière, prouvez à l'aide d'une table de vérité que la **négation de l'antécédent** est une fallacie (un argument invalide).
 
