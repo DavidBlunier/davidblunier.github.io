@@ -45,5 +45,5 @@ hidden: true
    Aucune truite ne rappe.
    6. $\exists x. [rappeur(x) \land \neg misogyne(x)]$  
    Certains rappeurs ne sont pas misogynes.
-   7. $\forall x. [ rappeur(x) \rightarrow \exists y. \exists z. [ [limousine(y) \land chaine(z) \land or(z)] \land [avoir(x,y) \lor avoir(x,z)] ] ]$  
+   7. $\forall x. [ rappeur(x) \rightarrow \exists y. \exists z. [ [limousine(y) \land chaine(z) \land or(z)] \land [avoir(x,y) \lor avoir(x,z)] ] ]$
    Tous les rappeurs ont soit une limousine, soit une chaîne en or (possiblement les deux).
