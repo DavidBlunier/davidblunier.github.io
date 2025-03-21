@@ -11,7 +11,7 @@ hidden: true
 
 1. Traduisez les expressions suivantes dans LPred:
    1. Tous les animaux sont des truites.  
-   $\forall x. [animal(x) \rightarrow truite(x)$]
+   $\forall x. [animal(x) \rightarrow truite(x)]$
    3. Selina a faim.  
    $faim(s)$
    4. Selina joue avec Fido.  
@@ -28,7 +28,7 @@ hidden: true
    9. Tous les *soprani* sont des chanteuses.  
    $\forall x. [soprano(x) \rightarrow chanteuse(x)]$
    10. Aucun baryton n'est une femme.  
-   $\neg \exists x. [baryton(x) \land femme(x)] \equiv \forall x. \neg [baryton(x) \rightarrow femme(x)]$
+   $\neg \exists x. [baryton(x) \land femme(x)] \equiv \forall x. [baryton(x) \rightarrow \neg femme(x)]$
    11. Tous les chanteurs sont soit des basses, soit des barytons, soit des ténors.  
    $\forall x. [chanteur(x) \rightarrow [basse(x) \lor baryton(x) \lor ténor(x)]]$
 
@@ -45,5 +45,5 @@ hidden: true
    Aucune truite ne rappe.
    6. $\exists x. [rappeur(x) \land \neg misogyne(x)]$  
    Certains rappeurs ne sont pas misogynes.
-   7. $\forall x. [rappeur(x) \rightarrow [avoir.une.limousine(x) \lor avoir.une.chaine.en.or(x)]]$  
+   7. $\forall x. [rappeur(x) \rightarrow [\exists y.\exists z. [limousine(y) \land avoir(x,y)] \lor [chaine.en.or(z} \land avoir(x,z)]]]$  
    Tous les rappeurs ont soit une limousine, soit une châine en or (possiblement les deux).
