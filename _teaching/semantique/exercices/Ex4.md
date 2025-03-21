@@ -25,7 +25,7 @@ hidden: true
    1. $\exists x. [cool(x) \land swag(x)]$
    2. $\forall x. [truite(x) \land fumée(x)]$
    3. $\forall x. [rappeur(x) \rightarrow grossier(x)]$
-   4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture.tunée(y) \land conduire(x,y) ]$
+   4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture(y) \land tunée(y) \land conduire(x,y) ]$
    5. $\neg \exists x. rappeur(x) \land truite(x)$
    6. $\exists x. [rappeur(x) \land \neg misogyne(x)]$
-   7. $\forall x. [rappeur(x) \rightarrow \exists y.\exists z. [[limousine(y) \land avoir(x,y)] \lor [chaine.en.or(z) \land avoir(x,z)]]$
+   7. $\forall x. [ rappeur(x) \rightarrow \exists y. \exists z. [ [limousine(y) \land chaine(z) \land or(z)] \land [avoir(x,y) \lor avoir(x,z)] ] ]$
