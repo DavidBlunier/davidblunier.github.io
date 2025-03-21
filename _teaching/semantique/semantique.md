@@ -23,6 +23,13 @@ Tous les mardis à partir du 21 janvier de **17h30** à **18h30** dans l'amphith
 ## Modalités d'évaluation
 Le cours sera évalué sur la base de deux examens écrits (exercices). Le premier devoir sera à effectuer à domicile et à rendre après les vacances de février. Le second se fera sur table, lors de la dernière séance du cours (séance double, 2h).
 
+### Examens
+
+[Examen 1 (à rendre pour le 25.03)](/semantique/exercices/Examen_LProp_LPred/)
+
+
+
+
 ## TP
 Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés par moi-même le mercredi à partir du 5 mars (deux groupes).
 
@@ -38,10 +45,11 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 | 11.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)      | [Exercices](/semantique/exercices/Ex3/) | [Corrigé](/semantique/exercices/Ex3_Corr/)
 | 18.02 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)   | |
 | 25.02 | Vacances de février     |  |
-| 04.03 | [Cours 4: Logique des prédicats 1](./semantique/cours/Sem_4_LPred.pdf) | [Exercices](/semantique/exercices/Ex4/) | [Corrigé](/semantique/exercices/Ex4_Corr/)
-| 11.03 | [Cours 5: Logique des prédicats 2: fonctions d'interprétation et d'assignation](./semantique/cours/Sem_5_LPred2.pdf) |  |
-| 18.03 | Cours 6: Lambda-calcul 1 |  |
-| 25.03 | Cours 7: Lambda-calcul 2  |  |
-| 01.04 | Cours 8: Application de fonction 1  |  |
-| 08.04 | Cours 9: Application de fonction 2  |  |
-| 08.04 | Cours 10: Autres règles de composition: prédicats, pronoms  |   |
+| 04.03 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)     |  |
+| 11.03 | [Cours 4: Logique des prédicats 1](./semantique/cours/Sem_4_LPred.pdf) | [Exercices](/semantique/exercices/Ex4/) | [Corrigé](/semantique/exercices/Ex4_Corr/)
+| 18.03 | [Cours 5: Logique des prédicats 2: fonctions d'interprétation et d'assignation](./semantique/cours/Sem_5_LPred2.pdf) |  |
+| 25.03 | Cours 6: Lambda-calcul 1 |  |
+| 01.04 | Cours 7: Lambda-calcul 2  |  |
+| 08.04 | Cours 8: Application de fonction 1  |  |
+| 15.04 | Cours 9: Application de fonction 2  |  |
+| 22.04 | Cours 10: Autres règles de composition: prédicats, pronoms  |   |
