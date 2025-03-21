@@ -28,4 +28,4 @@ hidden: true
    4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture.tunée(y) \land conduire(x,y) ]$
    5. $\neg \exists x. rappeur(x) \land truite(x)$
    6. $\exists x. [rappeur(x) \land \neg misogyne(x)]$
-   7. $\forall x. [rappeur(x) \rightarrow [avoir.une.limousine(x) \lor avoir.une.chaîne.en.or(x)]]$
+   7. $\forall x. [rappeur(x) \rightarrow \exists y.\exists z. [[limousine(y) \land avoir(x,y)] \lor [chaine.en.or(z) \land avoir(x,z)]]$
