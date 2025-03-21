@@ -18,8 +18,6 @@ Considérez les arguments suivants:
 
 1. Pour chaque argument, déterminez si il s'agit d'un argument **valide** et/ou **fondé**.
 2. Justifiez vos réponses en construisant les tables de vérité de chaque argument.
-
   > Aide: pour ce faire, vous devez tout d'abord formaliser ces arguments en logique propositionnelle.
-
 3. Traduisez les deux arguments en logique des prédicats.
 
