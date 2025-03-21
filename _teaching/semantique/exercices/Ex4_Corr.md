@@ -39,11 +39,11 @@ hidden: true
    Tout le monde est une truite fumée.
    3. $\forall x. [rappeur(x) \rightarrow grossier(x)]$  
    Tous les rappeurs sont grossiers.
-   4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture.tunée(y) \land conduire(x,y) ]$  
+   4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture(y) \land tunée(y) \land conduire(x,y) ]$  
    Tous les rappeurs conduisent une voiture tunée (interprétation distributive: Snoop Dogg conduit une Chevrolet Impala 1967, 50 cent conduit une Lamborghini Murciélago, le Roi Heenok conduit une Pontiac, etc.)
    5. $\neg \exists x. rappeur(x) \land truite(x)$  
    Aucune truite ne rappe.
    6. $\exists x. [rappeur(x) \land \neg misogyne(x)]$  
    Certains rappeurs ne sont pas misogynes.
-   7. $\forall x. [rappeur(x) \rightarrow \exists y.\exists z. [[limousine(y) \land avoir(x,y)] \lor [chaine.en.or(z) \land avoir(x,z)]]$  
-   Tous les rappeurs ont soit une limousine, soit une châine en or (possiblement les deux).
+   7. $\forall x. [ rappeur(x) \rightarrow \exists y. \exists z. [ [limousine(y) \land chaine(z) \land or(z)] \land [avoir(x,y) \lor avoir(x,z)] ] ]$  
+   Tous les rappeurs ont soit une limousine, soit une chaîne en or (possiblement les deux).
