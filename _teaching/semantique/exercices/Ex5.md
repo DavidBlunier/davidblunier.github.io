@@ -48,7 +48,7 @@ g_{2} =
 $$
 
 1. Quelle est la dénotation les objets suivants dans $M_{1}$?
-   1. $\llbracket o \rrbracket^{M_{1}}$
+   1. $\text{\llbracket} o \text{\rrbracket}^{M_{1}}$
    2. $\llbracket r \rrbracket^{M_{1}}$
    3. $\llbracket répare(db,o) \rrbracket^{M_{1}}$
    4. $\llbracket interfère.avec(db, o) \rrbracket^{M_{1}}$
