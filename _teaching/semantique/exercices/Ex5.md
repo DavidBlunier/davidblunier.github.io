@@ -1,3 +1,12 @@
+---
+title: "Exercices, série 5"
+permalink: semantique/exercices/Ex5/
+layout: archive
+mathjax: true
+published: true
+hidden: true
+---
+
 ## Fonctions d'interprétation et d'assignation
 
 Considérez le modèle $M_{1}$, dans lequel l'ensemble des individus $D_{M_{1}}$ sont les suivants:
