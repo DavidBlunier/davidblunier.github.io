@@ -1,6 +1,6 @@
 ---
 title: "Exercices, série 5"
-permalink: semantique/exercices/Ex5/
+permalink: semantique/exercices/test/
 layout: archive
 mathjax: true
 published: true
