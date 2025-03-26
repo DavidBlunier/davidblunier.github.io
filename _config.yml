@@ -347,4 +347,10 @@ compress_html:
 
     mathjax:
   enable: true
+  config:
+    TeX:
+      Macros:
+        llbracket: "{\\left[\\mkern-3mu\\left[}"
+        rrbracket: "{\\right]\\mkern-3mu\\right]}"
+
 
