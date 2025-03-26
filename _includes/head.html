@@ -14,15 +14,16 @@
 <script>
 window.MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],  // Enable inline math
+    inlineMath: [['$', '$'], ['\\(', '\\)']],  // Ensure inline math is enabled
     macros: {
-      llbracket: "⟦",   // Directly use Unicode characters
-      rrbracket: "⟧"
+      llbracket: "{\\text{⟦}}",  // Use Unicode characters directly for inline
+      rrbracket: "{\\text{⟧}}"
     }
   }
 };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
 
 
