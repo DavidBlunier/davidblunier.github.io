@@ -11,15 +11,17 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<script type="text/javascript">
-  MathJax = {
-    tex: {
-      packages: {'[+]': ['braket']}
+<script>
+window.MathJax = {
+  tex: {
+    macros: {
+      llbracket: "{\\mathopen{\\text{⟦}}}",
+      rrbracket: "{\\mathclose{\\text{⟧}}}"
     }
-  };
+  }
+};
 </script>
-<script type="text/javascript" async 
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
 <script>
