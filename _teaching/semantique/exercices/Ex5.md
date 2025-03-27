@@ -2,7 +2,6 @@
 title: "Exercices, série 5"
 permalink: semantique/exercices/Ex5/
 layout: archive
-mathjax: true
 published: true
 hidden: true
 ---
