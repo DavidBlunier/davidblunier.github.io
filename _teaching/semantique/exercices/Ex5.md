@@ -61,7 +61,6 @@ $$
 7. Qu'est-ce que $\llbracket z \rrbracket^{M_{1}, g{_{2}}[z \mapsto o]}$?
 
 8. Calculez la dénotation des expressions suivantes:
-
    1. $\llbracket répare(z,y) \rrbracket^{M_{1}, g_{1}}$
    2. $\llbracket en.retard(x) \rrbracket^{M_{1}, g_{1}}$
    3.  $\llbracket répare(z,y) \rrbracket^{M_{1}, g_{2}}$
