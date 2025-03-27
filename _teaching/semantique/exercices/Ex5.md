@@ -55,8 +55,8 @@ $$
 
 2. Qu'est ce que $g_{1}(y)$?
 3. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g_{1}}$?
-4. Qu'est ce que $g_{1}[x \mapsto \text{le réparateur}](y)$?
-5. Qu'est ce que $g_{1}[x \mapsto \text{le réparateur}](x)$?
+4. Qu'est ce que $g_{1}\[x \mapsto \text{le réparateur}\](y)$?
+5. Qu'est ce que $g_{1}\[x \mapsto \text{le réparateur}\](x)$?
 6. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g_{2}}$?
 7. Qu'est-ce que $\llbracket z \rrbracket^{M_{1}, g_{2}}$?
 
