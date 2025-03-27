@@ -55,8 +55,8 @@ $$
 
 2. Qu'est ce que $g_{1}(y)$?
 3. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g{_{1}}[y \mapsto r]}$?
-4. Qu'est ce que $g_{1}[x \mapsto r](y)$?
-5. Qu'est ce que $g_{1}[x \mapsto r](x)$?
+4. Qu'est ce que $g{_{1}}[x \mapsto r](y)$?
+5. Qu'est ce que $g{_{1}}[x \mapsto r](x)$?
 6. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g_{2}}$?
 7. Qu'est-ce que $\llbracket z \rrbracket^{M_{1}, g{_{2}}[z \mapsto o]}$?
 
