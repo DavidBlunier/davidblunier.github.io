@@ -57,9 +57,9 @@ $$
    l'ordinateur
 3. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g{_{1}}[y \mapsto r]}$?  
    David Blunier
-4. Qu'est ce que $g_{1}[x \mapsto r](y)$?  
+4. Qu'est ce que $g_{1}\[x \mapsto r\](y)$?  
    l'ordinateur
-5. Qu'est ce que $g_{1}[x \mapsto r](x)$?  
+5. Qu'est ce que $g_{1}\[x \mapsto r\](x)$?  
    le réparateur
 6. Qu'est-ce que $\llbracket x \rrbracket^{M_{1}, g_{2}}$?  
    l'ordinateur
@@ -67,7 +67,6 @@ $$
    l'ordinateur
 
 8. Calculez la dénotation des expressions suivantes:
-
    1. $\llbracket répare(z,y) \rrbracket^{M_{1}, g_{1}}$ = 1
    2. $\llbracket en.retard(x) \rrbracket^{M_{1}, g_{1}}$ = 1
    3.  $\llbracket répare(z,y) \rrbracket^{M_{1}, g_{2}}$ = 0
