@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae (last updated: March 2025)]
+[Curriculum Vitae (last updated: March 2025)](../CV/Blunier_David_CV_03.2025.pdf)
