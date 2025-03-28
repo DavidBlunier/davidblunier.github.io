@@ -48,7 +48,7 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 | 04.03 | Cours annulé (grève universitaire en protestation aux coupes budgétaires)     |  |
 | 11.03 | [Cours 4: Logique des prédicats 1](./semantique/cours/Sem_4_LPred.pdf) | [Exercices](/semantique/exercices/Ex4/) | [Corrigé](/semantique/exercices/Ex4_Corr/)
 | 18.03 | [Cours 5: Logique des prédicats 2: fonctions d'interprétation et d'assignation](./semantique/cours/Sem_5_LPred2.pdf) | [Exercices](/semantique/exercices/Ex5/) | [Corrigé](/semantique/exercices/Ex5_Corr/)
-| 25.03 | Cours 6: Lambda-calcul 1 |  |
+| 25.03 | [Cours 6: Lambda-calcul 1](./semantique/cours/Sem_6_Lambda.pdf) |  |
 | 01.04 | Cours 7: Lambda-calcul 2  |  |
 | 08.04 | Cours 8: Application de fonction 1  |  |
 | 15.04 | Cours 9: Application de fonction 2  |  |
