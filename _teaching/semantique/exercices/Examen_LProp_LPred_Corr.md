@@ -104,7 +104,7 @@ L'argument est vrai dans tous les modèles, donc valide.
 Il se traduit en LPred ainsi:
 
 > *Variante 1: portée étroite de la négation*  
-> P1: $\forall x. \[oiseau(x) \land ailé(x)\] \rightarrow \[\forall y.\[pingouin(y) \rightarrow vole(y)\]\]$  
+> P1: $\forall x. \[oiseau(x) \rightarrow ailé(x)\] \rightarrow \[\forall y.\[pingouin(y) \rightarrow vole(y)\]\]$  
 > 
 > P2: $\forall x.\[pingouin(x) \rightarrow  \neg vole(x)\] \equiv$  
 > $\neg \exists x. \[pingouin(x) \land vole(x)\]$  
