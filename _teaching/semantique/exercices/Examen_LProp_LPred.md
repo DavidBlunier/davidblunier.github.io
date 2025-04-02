@@ -2,7 +2,6 @@
 title: "Examen: logique propositionnelle, logique des prédicats"
 permalink: semantique/exercices/Examen_LProp_LPred/
 layout: archive
-mathjax: true
 published: true
 hidden: true
 ---
