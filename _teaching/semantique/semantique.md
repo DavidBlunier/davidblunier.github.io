@@ -25,7 +25,7 @@ Le cours sera évalué sur la base de deux examens écrits (exercices). Le premi
 
 ### Examens
 
-[Examen 1 (à rendre pour le mardi 1er avril)](/semantique/exercices/Examen_LProp_LPred/)
+[Examen 1 (à rendre pour le mardi 1er avril)](/semantique/exercices/Examen_LProp_LPred/) / [Corrigé](/semantique/exercices/Examen_LProp_LPred_Corr/)
 
 
 
