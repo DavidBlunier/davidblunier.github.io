@@ -30,7 +30,7 @@ Considérez les arguments suivants:
 > P2: $q$  
 > C: $\not \therefore p$
 
-Cet argument n'est ni valide, ni fondé: il s'agit d'une fallacie (affirmation du conséquent), comme le montre la table de vérité suivante (1pt, si la réponse est congruente avec les résultats obtenus dans les tables de vérité):
+Cet argument n'est ni valide, ni fondé: il s'agit d'une fallacie (affirmation du conséquent), comme le montre la table de vérité suivante *(1pt, si la réponse est congruente avec les résultats obtenus dans les tables de vérité)*:
 
 > | $p$ | $q$ | $p \rightarrow q$ | $\[p \rightarrow q\] \land q$ | $\[\[p \rightarrow q\] \land q\]\] \rightarrow p$
 > |---|---|---|---|---|
@@ -41,7 +41,7 @@ Cet argument n'est ni valide, ni fondé: il s'agit d'une fallacie (affirmation d
 
 *(1 pt pour avoir posé les valeurs de $p$ et $q$ correctement, puis 1pt/colonne. Erreur de calcul: -0.25pt. Total: 4pt)*
 
-Comme il existe au moins un modèle dans lequel l'implication matérielle des prémisses à la conclusion est fausse (le deuxième), l'argument n'est logiquement invalide.
+Comme il existe au moins un modèle dans lequel l'implication matérielle des prémisses à la conclusion est fausse (le deuxième), l'argument est logiquement invalide.
 
 Mais comme toujours, nos intuitions basées sur le langage naturel peuvent nous tromper: si la première prémisse est interprétée en LProp comme contenant un **biconditionnel** (ssi, si et seulement si) plutôt qu'une implication matérielle, alors l'argument devient valide, et nous pouvons en conclure que si les élèves ont réussi l'examen, alors ils ont nécessairement étudié.
 
@@ -88,7 +88,7 @@ Cet argument se traduit en logique des prédicats de la façon suivante:
 > P2: $\neg q$  
 > C: $\therefore \neg p$
 
-Cet argument est valide, mais infondé: dans notre monde, les pingouins sont des oiseaux et ont effectivement des ailes, mais ne volent pas. La première prémisse est donc fausse. Néanmoins, la conclusion découle logiquement des prémisses (il s'agit d'un *modus tollens*), ce qui suffit à en faire un argument valide (1pt pour la validité, 1pt pour la fondation, si la réponse est congruente avec les résultats obtenus dans les tables de vérité). Voici la table de vérité qui le prouve:
+Cet argument est valide, mais infondé: dans notre monde, les pingouins sont des oiseaux et ont effectivement des ailes, mais ne volent pas. La première prémisse est donc fausse. Néanmoins, la conclusion découle logiquement des prémisses (il s'agit d'un *modus tollens*), ce qui suffit à en faire un argument valide *(1pt pour la validité, 1pt pour la fondation, si la réponse est congruente avec les résultats obtenus dans les tables de vérité)*. Voici la table de vérité qui le prouve:
 
 > | $p$ | $q$ | $p \rightarrow q$ | $\neg q$ | $\neg p$ | $\[p \rightarrow q\] \land \neg q$ | $\[\[p \rightarrow q\] \land \neg q\] \rightarrow \neg p$
 > |---|---|---|---|---|---|---
