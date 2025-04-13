@@ -66,5 +66,5 @@ II. Considérez les expressions suivantes:
 
 Pour chacune des expressions ci-dessus, répondez aux questions suivantes:
 
-1) S'agit-il d'une expression bien formée de LL? Si oui, quel est son type?
-2) S'il s'agit d'une expression bien formée et lorsque cela est possible, donnez une version complètement réduite de la formule (via lambda-conversion); utilisez la règle d'alpha-conversion (i.e., renommez les variables quand cela est nécessaire), afin d'éviter toute capture de variable accidentelle.
+1. S'agit-il d'une expression bien formée de LL? Si oui, quel est son type?
+2. S'il s'agit d'une expression bien formée et lorsque cela est possible, donnez une version complètement réduite de la formule (via lambda-conversion); utilisez la règle d'alpha-conversion (i.e., renommez les variables quand cela est nécessaire), afin d'éviter toute capture de variable accidentelle.
