@@ -8,7 +8,7 @@ hidden: true
 
 ## Composition sémantique
 
-Actifs de 1996 à 2001, les *2Be3* étaient et resteront pour toujours le plus connu des boys-band français, ayant connu une carrière brève mais fulgurante comprenant trois albums studio vendus à plus de cinq millions d'exemplaires. Leurs \[chorégraphies\](https://www.youtube.com/watch?v=3c7DDnjrXFw) comprenant moult figures de breakdance (backflip, \[airflare\](https://www.youtube.com/watch?v=1fxOuGQcEsI)) et autres chemises ouvertes sur des abdominaux ont fait rêver des millers d'adolescent.e.s de cette génération.
+Actifs de 1996 à 2001, les *2Be3* étaient et resteront pour toujours le plus connu des boys-band français, ayant connu une carrière brève mais fulgurante comprenant trois albums studio vendus à plus de cinq millions d'exemplaires. Leurs [chorégraphies](https://www.youtube.com/watch?v=3c7DDnjrXFw) comprenant moult figures de breakdance (backflip, [airflare](https://www.youtube.com/watch?v=1fxOuGQcEsI)) et autres chemises ouvertes sur des abdominaux ont fait rêver des millers d'adolescent.e.s de cette génération.
 
 Considérons donc le modèle $M_{2Be3}$ suivant:
 
@@ -46,7 +46,7 @@ Entrées lexicales:
 
 Composition:
 
-1. $\llbracket \text{avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = [\lambda y. \lambda x. chanter.avec (x,y)]{_{\langle e, \langle e,t \rangle \rangle}}(a){_{e}} = \lambda x. chanter.avec(x,a){_{\langle e,t \rangle}}$
+1. $\llbracket \text{avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[lambda y. \lambda x. chanter.avec (x,y)\]_{\langle e, \langle e,t \rangle \rangle}(a)_{e} = \lambda x. chanter.avec(x,a)_{\langle e,t \rangle}$
 2. $\llbracket \text{avec Adel} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = [\lambda x. chanter.avec(x,a){_{\langle e,t \rangle}}](fr{_{e}}) = chanter.avec(fr,a){_{t}}$
 
 Dénotation:
