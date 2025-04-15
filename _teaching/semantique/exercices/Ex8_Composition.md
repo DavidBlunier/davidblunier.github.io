@@ -8,7 +8,7 @@ hidden: true
 
 ## Composition sémantique
 
-Actif de 1996 à 2001, les *2Be3* étaient et resteront pour toujours le plus connu des boys-band français, ayant connu une carrière brève mais fulgurante comprenant trois albums studio vendus à plus de cinq millions d'exemplaires. Leurs \[chorégraphies\](https://www.youtube.com/watch?v=3c7DDnjrXFw) comprenant moult figures de breakdance (backflip, \[airflare\](https://www.youtube.com/watch?v=1fxOuGQcEsI)) et autres chemises ouvertes sur des abdominaux ont fait rêver des millers d'adolescent.e.s de cette génération.
+Actifs de 1996 à 2001, les *2Be3* étaient et resteront pour toujours le plus connu des boys-band français, ayant connu une carrière brève mais fulgurante comprenant trois albums studio vendus à plus de cinq millions d'exemplaires. Leurs \[chorégraphies\](https://www.youtube.com/watch?v=3c7DDnjrXFw) comprenant moult figures de breakdance (backflip, \[airflare\](https://www.youtube.com/watch?v=1fxOuGQcEsI)) et autres chemises ouvertes sur des abdominaux ont fait rêver des millers d'adolescent.e.s de cette génération.
 
 Considérons donc le modèle $M_{2Be3}$ suivant:
 
