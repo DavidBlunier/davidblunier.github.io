@@ -57,9 +57,10 @@ Dénotation:
 
 1. Frank danse avec Filip.
 2. Filip est le leader.
-3. Adel fait un airflare.  
-*$\equiv$ "Adel fait airflare"; dans cette position, l'article indéfini n'est pas interprété sémantiquement.*
-4. Frank n'est pas content.
+   *$\equiv$ "Filip est leader"; dans cette position, l'article défini n'est pas interprété sémantiquement.*
+4. Adel fait un airflare.  
+   *$\equiv$ "Adel fait airflare"; dans cette position, l'article indéfini n'est pas interprété sémantiquement.*
+5. Frank n'est pas content.
 1. Adel et Frank sont jaloux de Filip.
 2. Filip, Adel et Frank ont des abdos.  
    *$\equiv$ "Filip et Adel et Frank ont abdos"; dans cette position, l'article défini n'est pas interprété sémantiquement.*
