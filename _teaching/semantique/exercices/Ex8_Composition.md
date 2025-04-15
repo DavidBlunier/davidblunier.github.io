@@ -46,7 +46,7 @@ Entrées lexicales:
 
 Composition:
 
-1. $\llbracket \text{avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = [\lambda y. \lambda x. chanter.avec (x,y)]_{\langle e, \langle e,t \rangle \rangle}(a)_{e} = \lambda x. chanter.avec(x,a)_{\langle e,t \rangle}$
+1. $\llbracket \text{avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. chanter.avec (x,y)\]_{\langle e, \langle e,t \rangle \rangle}(a)_{e} = \lambda x. chanter.avec(x,a)_{\langle e,t \rangle}$
 2. $\llbracket \text{avec Adel} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \lambda x. chanter.avec(x,a)_{\langle e,t \rangle}(fr_{e}) = chanter.avec(fr,a)_{t}$
 
 Dénotation:
