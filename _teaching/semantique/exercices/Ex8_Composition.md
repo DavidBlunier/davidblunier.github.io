@@ -84,11 +84,11 @@ $\llbracket \text{et} \rrbracket = \lambda p. \lambda q. p \land q_{\langle t,t 
 
 *L'entrée standard de la conjonction. $p$ et $q$ sont des variables sur des propositions.*
 
-$\llbracket \text{et}_{individus} \rrbracket = \lambda y. \lambda x. x \oplus y_{\langle e, \langle e,e \rangle \rangle}$  
+$\llbracket \text{et}_{individus} \rrbracket = \lambda y. \lambda x. x \oplus y\_{\langle e, \langle e,e \rangle \rangle}$  
 
 *Le symbole $\oplus$ est issu des travaux de Link (1983) sur la pluralité et désigne la pluralité formée par deux individus/atomes; ainsi, cette entrée prend deux individus de type $e$ et retourne un individu pluriel composé de ces deux individus, également de type $e$.*
 
-$\llbracket \text{et}_{prédicats} \rrbracket = \lambda Q. \lambda P. \lambda x. P(x) \land Q(x)_{\langle e,t \langle \langle e,t \rangle, \langle e,t \rangle \rangle \rangle}$  
+$\llbracket \text{et}_{prédicats} \rrbracket = \lambda Q. \lambda P. \lambda x. P(x) \land Q(x)\_{\langle e,t \langle \langle e,t \rangle, \langle e,t \rangle \rangle \rangle}$  
 
 *Cette entrée de* et *permet de conjoindre deux prédicats.*
 
