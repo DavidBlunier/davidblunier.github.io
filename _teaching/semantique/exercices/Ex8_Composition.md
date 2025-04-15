@@ -15,7 +15,10 @@ Considérons donc le modèle $M_{2Be3}$ suivant:
 $$
 D_{M_{2Be3}} = \{ \text{Adel, Filip, Frank}
 \}
+$$
 
+
+$$
 M_{2Be3} =
 \left\[ \begin{aligned}
   &a \rightarrow \text{Adel} \\
