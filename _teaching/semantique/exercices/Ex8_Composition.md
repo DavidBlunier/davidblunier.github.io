@@ -20,7 +20,7 @@ $$
 
 $$
 M_{2Be3} =
-\left\[ \begin{aligned}
+\left[ \begin{aligned}
   &a \rightarrow \text{Adel} \\
   &fi \rightarrow \text{Filip} \\
   &fr \rightarrow \text{Frank} \\
@@ -28,7 +28,7 @@ M_{2Be3} =
   &danser.avec \rightarrow \{ \langle a, fr \rangle, \langle fr, a \rangle, \langle fi, a \rangle \} \\
   &backflip \rightarrow \{ fi \} \\
   &airflare \rightarrow \{ a \} \\
-\end{aligned} \right\]
+\end{aligned} \right]
 $$
 
 *Notez que cette liste n'est pas exhaustive, et que certains prédicats ne sont pas définis explicitement dans $M_{2Be3}$; vous êtes donc libres de déterminer leur valeur.*
