@@ -50,6 +50,6 @@ Des travaux pratiques (1h/semaine) sont prévus pour ce cours et seront donnés 
 | 18.03 | [Cours 5: Logique des prédicats 2: fonctions d'interprétation et d'assignation](./semantique/cours/Sem_5_LPred2.pdf) | [Exercices](/semantique/exercices/Ex5/) | [Corrigé](/semantique/exercices/Ex5_Corr/)
 | 25.03 | [Cours 6: Lambda-calcul 1](./semantique/cours/Sem_6_Lambda.pdf) | [Exercices](/semantique/exercices/Ex6_Lambda1/) | [Corrigé](/semantique/exercices/Ex6_Lambda1_Corr/)
 | 01.04 | [Cours 7: Lambda-calcul 2, types](./semantique/cours/Sem_7_Lambda2types.pdf)  | [Exercices](/semantique/exercices/Ex7_Lambda2/)  | [Corrigé](/semantique/exercices/Ex7_Lambda2_Corr/)
-| 08.04 | Cours 8: Application de fonction 1  |  |
+| 08.04 | Cours 8: Application de fonction 1  | [Exercices](/semantique/exercices/Ex8_Composition/) |
 | 15.04 | Cours 9: Application de fonction 2  |  |
 | 22.04 | Cours 10: Autres règles de composition: prédicats, pronoms  |   |
