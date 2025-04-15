@@ -62,7 +62,7 @@ Dénotation:
 4. Frank n'est pas content.
 1. Adel et Frank sont jaloux de Filip.
 2. Filip, Adel et Frank ont des abdos.  
-   *$\equiv$ "Filip et Adel et Frank ont des abdos"*
+   *$\equiv$ "Filip et Adel et Frank ont abdos"; dans cette position, l'article défini n'est pas interprété sémantiquement.*
 3. Filip chante et Frank danse avec Adel.
 5. Adel et Frank ne font pas de backflip.
 
@@ -76,7 +76,7 @@ $\llbracket \text{est, sont} \rrbracket = \lambda P. P_{\langle \langle e,t \ran
 
 *Une fonction d'identité sur des prédicats.*
 
-$\llbracket \text{de, des} \rrbracket = \lambda x.x_{\langle e,e \rangle}$
+$\llbracket \text{de} \rrbracket = \lambda x.x_{\langle e,e \rangle}$
 
 *Une fonction d'identité sur des individus.*
 
