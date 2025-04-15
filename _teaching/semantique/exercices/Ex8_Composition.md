@@ -56,7 +56,7 @@ Dénotation:
 ---
 
 1. Frank danse avec Filip.
-2. Filip est le leader.
+2. Filip est le leader.  
    *$\equiv$ "Filip est leader"; dans cette position, l'article défini n'est pas interprété sémantiquement.*
 4. Adel fait un airflare.  
    *$\equiv$ "Adel fait airflare"; dans cette position, l'article indéfini n'est pas interprété sémantiquement.*
