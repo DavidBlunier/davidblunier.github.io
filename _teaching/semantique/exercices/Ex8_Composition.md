@@ -26,8 +26,9 @@ M_{2Be3} =
   &fr \rightarrow \text{Frank} \\
   &chanter.avec \rightarrow \{ \langle a, fi \rangle, \langle a, fr \rangle, \langle fi, a \rangle, \langle fi, fr \rangle, \langle fr, a \rangle, \langle fr, fi \rangle \} \\
   &danser.avec \rightarrow \{ \langle a, fr \rangle, \langle fr, a \rangle, \langle fi, a \rangle \} \\
-  &backflip \rightarrow \{ fi \} \\
-  &airflare \rightarrow \{ a \} \\
+  &avoir.des.abdos \rightarrow \{ a, fr, fi \}
+  &faire.un.backflip \rightarrow \{ fi \} \\
+  &faire.un.airflare \rightarrow \{ a \} \\
 \end{aligned} \right]
 $$
 
@@ -63,7 +64,7 @@ Dénotation:
 5. Frank n'est pas content.
 1. Adel et Frank sont jaloux de Filip.
 2. Filip, Adel et Frank ont des abdos.  
-   *$\equiv$ "Filip et Adel et Frank ont abdos"; dans cette position, l'article défini n'est pas interprété sémantiquement.*
+   *$\equiv$ "Filip et Adel et Frank ont des abdos"*
 3. Filip chante et Frank danse avec Adel.
 5. Adel et Frank ne font pas de backflip.
 
