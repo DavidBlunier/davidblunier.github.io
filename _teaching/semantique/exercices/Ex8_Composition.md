@@ -26,7 +26,7 @@ M_{2Be3} =
   &fr \rightarrow \text{Frank} \\
   &chanter.avec \rightarrow \{ \langle a, fi \rangle, \langle a, fr \rangle, \langle fi, a \rangle, \langle fi, fr \rangle, \langle fr, a \rangle, \langle fr, fi \rangle \} \\
   &danser.avec \rightarrow \{ \langle a, fr \rangle, \langle fr, a \rangle, \langle fi, a \rangle \} \\
-  &avoir.des.abdos \rightarrow \{ a, fr, fi \}
+  &avoir.des.abdos \rightarrow \{ a, fr, fi \} \\
   &faire.un.backflip \rightarrow \{ fi \} \\
   &faire.un.airflare \rightarrow \{ a \} \\
 \end{aligned} \right]
