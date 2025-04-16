@@ -82,7 +82,7 @@ $\llbracket \text{de} \rrbracket = \lambda x.x_{\langle e,e \rangle}$
 
 *Une fonction d'identité sur des individus.*
 
-$\llbracket \text{et} \rrbracket = \lambda p. \lambda q. p \land q_{\langle t,t \rangle}$
+$\llbracket \text{et} \rrbracket = \lambda p. \lambda q. p \land q_{\langle t, \langle t,t \rangle \rangle}$
 
 *L'entrée standard de la conjonction. $p$ et $q$ sont des variables sur des propositions.*
 
