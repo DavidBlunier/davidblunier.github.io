@@ -44,6 +44,18 @@ Attention au temps de présentation! Ne mettez pas trop de contenu sur une seule
 [Exemple de présentation](./typologie/Exemple_presentation.pdf)
 
 
+### Dossier final pour évaluation
+
+Chaque groupe devra déposer sur UPDago un rapport de terrain sur leurs sujets respectifs, qui comprendra les résultats de leur étude préliminaire. Les dossiers devront comprendre au moins:
+- Une présentation générale de la langue étudiée (caractéristiques typologiques principales, distribution géographique, genre et famille, etc.);
+- Une présentation du phénomène étudié, ainsi que sa distribution (ce phènomène se retrouve-t-il dans d'autres langues?);
+- Une présentation des données pertinentes récoltées pour illustrer ce phénomène. **Attention: toutes les données doivent être présentées sous forme de gloses d'après le système de Leipzig (voir documents ci-dessus); aucun autre format ne sera accepté.** Si votre sujet porte sur la phonétique ou la phonologie, la première ligne de vos gloses doit être en IPA.
+- Une conclusion, dans laquelle vous résumez de façon systématique les résultats de votre enquête et dans laquelle vous proposez une réflexion plus générale sur vos données et leurs implications typologiques, dans une perspective comparative;
+- Une liste exhaustive des références utilisées, répondant à la norme APA (voir document ci-dessus).
+
+La date limite de rendu des dossiers est le **1er mai 2025**.
+
+
 
 ## Programme (provisoire)
 
