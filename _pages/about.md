@@ -13,7 +13,7 @@ A significant part of my research is dedicated to the study of sign languages an
 
 Other topics I'm interested in include demonstratives, implicatures and the role of alternatives and competition in natural language, co‑ and pro-speech gestures, and speech reports.
 
-My non-academical interests are, among many, calisthenics, opera, poetry and cinema, not necessarily in that order.
+My non-academical interests are, among many, calisthenics, opera, poetry and [cinema](https://letterboxd.com/DavidBlunier/), not necessarily in that order.
 
  
 
