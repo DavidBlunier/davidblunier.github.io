@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David Blunier's personal webpage"
+title: "David Blunier"
 author_profile: true
 redirect_from: 
   - /about/
