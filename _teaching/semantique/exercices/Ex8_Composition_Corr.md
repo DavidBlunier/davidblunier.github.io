@@ -13,13 +13,13 @@ Actifs de 1996 à 2001, les *2Be3* étaient et resteront pour toujours le plus c
 Considérons donc le modèle $M\_{2Be3}$ suivant:
 
 $$
-D\_{M\_{2Be3}} = \{ \text{Adel, Filip, Frank}
+D_{M_{2Be3}} = \{ \text{Adel, Filip, Frank}
 \}
 $$
 
 
 $$
-M\_{2Be3} =
+M_{2Be3} =
 \left[ \begin{aligned}
   &a \rightarrow \text{Adel} \\
   &fi \rightarrow \text{Filip} \\
