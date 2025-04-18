@@ -56,32 +56,32 @@ Dénotation:
 
 ---
 
----
+
 1. Frank danse avec Filip.
 
    Composition:
 
-   1. $\llbracket \text{danse avec} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M\_{2Be3}}) = [\lambda y. \lambda x. danser.avec (x,y)]\_{\langle e, \langle e,t \rangle \rangle}(fi)\_{e} = \lambda x. danser.avec(x,fi)\_{\langle e,t \rangle}$
-   2. $\llbracket \text{danse avec Filip} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = \lambda x. chanter.avec(x,fi)\_{\langle e,t \rangle}(fr\_{e}) = danser.avec(fr,fi)\_{t}$
+   1. $\llbracket \text{danse avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. danser.avec (x,y)\]_{\langle e, \langle e,t \rangle \rangle}(fi)_{e} = \lambda x. danser.avec(x,fi)_{\langle e,t \rangle}$
+   2. $\llbracket \text{danse avec Filip} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \lambda x. chanter.avec(x,fi)_{\langle e,t \rangle}(fr_{e}) = danser.avec(fr,fi)_{t}$
    
    Dénotation:
 
-   $\llbracket \text{Frank danse avec Filip} \rrbracket^{M\_{2Be3}} = 0$
+   $\llbracket \text{Frank danse avec Filip} \rrbracket^{M_{2Be3}} = 0$
 
 2. Filip est le leader.  
    
    Entrées lexicales:
 
-   $\llbracket \text{leader} \rrbracket = \lambda x. leader(x)\_{\langle e,t \rangle}$
+   $\llbracket \text{leader} \rrbracket = \lambda x. leader(x)_{\langle e,t \rangle}$
 
    Composition:
 
-   1. $\llbracket \text{est} \rrbracket^{M\_{2Be3}}(\llbracket \text{le leader} \rrbracket^{M\_{2Be3}}) = [\lambda P. P\_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}](\lambda x. leader(x)\_{\langle e,t \rangle}) = \lambda x. leader(x)\_{\langle e,t \rangle}$
-   2. $\llbracket \text{est le leader} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M\_{2Be3}}) = [(\lambda x. leader(x))\_{\langle e,t \rangle}](fi\_{e}) = leader(fi)\_{t}$
+   1. $\llbracket \text{est} \rrbracket^{M_{2Be3}}(\llbracket \text{le leader} \rrbracket^{M_{2Be3}}) = \[\lambda P. P_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}\](\lambda x. leader(x)_{\langle e,t \rangle}) = \lambda x. leader(x)_{\langle e,t \rangle}$
+   2. $\llbracket \text{est le leader} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[(\lambda x. leader(x))_{\langle e,t \rangle}\](fi_{e}) = leader(fi)_{t}$
    
    Dénotation:
 
-   $\llbracket \text{Filip est le leader} \rrbracket^{M\_{2Be3}} = 1$
+   $\llbracket \text{Filip est le leader} \rrbracket^{M_{2Be3}} = 1$
 
 
 3. Adel fait un airflare.  
@@ -89,51 +89,51 @@ Dénotation:
 
     Entrées lexicales:
 
-    $\llbracket \text{faire un airflare} \rrbracket = \lambda x. airflare(x)\_{\langle e,t \rangle}$
+    $\llbracket \text{faire un airflare} \rrbracket = \lambda x. airflare(x)_{\langle e,t \rangle}$
 
     Composition:
 
-   $\llbracket \text{fait un airflare} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = [\lambda x. airflare(x)\_{\langle e,t \rangle}](a\_{e}) = airflare(a)\_{t}$
+   $\llbracket \text{fait un airflare} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda x. airflare(x)_{\langle e,t \rangle}\](a_{e}) = airflare(a)_{t}$
    
    
    Dénotation:
 
-   $\llbracket \text{Adel fait un airflare} \rrbracket^{M\_{2Be3}} = 1$
+   $\llbracket \text{Adel fait un airflare} \rrbracket^{M_{2Be3}} = 1$
 
 1. Frank n'est pas content.
    
    Entrées lexicales:
 
-   $\llbracket \text{content} \rrbracket = \lambda x. content(x)\_{\langle e,t \rangle}$
+   $\llbracket \text{content} \rrbracket = \lambda x. content(x)_{\langle e,t \rangle}$
 
    Composition:
 
-   1. $\llbracket \text{est} \rrbracket^{M\_{2Be3}}(\llbracket \text{content} \rrbracket^{M\_{2Be3}}) = [\lambda P. P\_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}](\lambda x. content(x)\_{\langle e,t \rangle}) = \lambda x. content(x)\_{\langle e,t \rangle}$
-   2. $\llbracket \text{est content} \rrbracket^{M\_{2Be3}}(\llbracket \text{Neg} \rrbracket^{M\_{2Be3}}) = [\lambda x. content(x)\_{\langle e,t \rangle}](\lambda P. \lambda x. \neg P(x)\_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}) = \lambda x. \neg content(x)\_{\langle e,t \rangle}$
-   3. $\llbracket \text{n'est pas content} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = [\lambda x. \neg content(x)\_{\langle e,t \rangle}](fr\_{e}) = \neg content(fr)\_{t}$
+   1. $\llbracket \text{est} \rrbracket^{M_{2Be3}}(\llbracket \text{content} \rrbracket^{M_{2Be3}}) = \[\lambda P. P_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}\](\lambda x. content(x)_{\langle e,t \rangle}) = \lambda x. content(x)_{\langle e,t \rangle}$
+   2. $\llbracket \text{est content} \rrbracket^{M_{2Be3}}(\llbracket \text{Neg} \rrbracket^{M_{2Be3}}) = \[\lambda x. content(x)_{\langle e,t \rangle}\](\lambda P. \lambda x. \neg P(x)_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}) = \lambda x. \neg content(x)_{\langle e,t \rangle}$
+   3. $\llbracket \text{n'est pas content} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \[\lambda x. \neg content(x)_{\langle e,t \rangle}\](fr_{e}) = \neg content(fr)_{t}$
    
    Dénotation:
 
-   $\llbracket \text{Frank n'est pas content} \rrbracket^{M\_{2Be3}} = 1 \lor 0$
+   $\llbracket \text{Frank n'est pas content} \rrbracket^{M_{2Be3}} = 1 \lor 0$
 
 2. Adel et Frank sont jaloux de Filip.
 
     Entrées lexicales:
 
-    $\llbracket \text{jaloux} \rrbracket = \lambda y. \lambda x. jaloux(x,y)\_{\langle e ,\langle e,t \rangle \rangle}$
+    $\llbracket \text{jaloux} \rrbracket = \lambda y. \lambda x. jaloux(x,y)_{\langle e ,\langle e,t \rangle \rangle}$
 
     Composition:
 
-    1. $\llbracket \text{de} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M\_{2Be3}}) = [\lambda x. x\_{\langle e,e \rangle}](fi\_{e}) = fi\_{e}$
-    2. $\llbracket \text{jaloux} \rrbracket^{M\_{2Be3}}(\llbracket \text{de Filip} \rrbracket^{M\_{2Be3}}) = [\lambda y\lambda x. jaloux(x,y)\_{\langle e, \langle e,t \rangle \rangle}](fi\_{e}) = \lambda x. jaloux(x,fi)\_{\langle e,t \rangle}$
-    3. $\llbracket \text{sont} \rrbracket^{M\_{2Be3}}(\llbracket \text{jaloux de Filip} \rrbracket^{M\_{2Be3}}) = [\lambda P. P\_{\langle \langle e, t \rangle, \langle e,t \rangle \rangle}](\lambda x. jaloux(x,fi)\_{\langle e,t \rangle}) = \lambda x. jaloux(x,fi)\_{\langle e,t \rangle}$
-    4. $\llbracket \text{et} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = [\lambda y. \lambda x. x \oplus y\_{\langle e, \langle e,e \rangle \rangle}](fr\_{e}) = \lambda x. x \oplus fr\_{\langle e,e \rangle}$
-    5. $\llbracket \text{et Frank} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = [\lambda x. x \oplus fr\_{\langle e,e \rangle}](a\_{e}) = a \oplus fr\_{e}$
-    6. $\llbracket \text{sont jaloux de Filip} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel et Frank} \rrbracket^{M\_{2Be3}}) = [\lambda x. jaloux(x,fi)\_{\langle e,t \rangle}](a \oplus fr\_{e}) = jaloux(a \oplus fr, fi)\_{t}$
+    1. $\llbracket \text{de} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda x. x_{\langle e,e \rangle}\](fi_{e}) = fi_{e}$
+    2. $\llbracket \text{jaloux} \rrbracket^{M_{2Be3}}(\llbracket \text{de Filip} \rrbracket^{M_{2Be3}}) = \[\lambda y\lambda x. jaloux(x,y)_{\langle e, \langle e,t \rangle \rangle}\](fi_{e}) = \lambda x. jaloux(x,fi)_{\langle e,t \rangle}$
+    3. $\llbracket \text{sont} \rrbracket^{M_{2Be3}}(\llbracket \text{jaloux de Filip} \rrbracket^{M_{2Be3}}) = \[\lambda P. P_{\langle \langle e, t \rangle, \langle e,t \rangle \rangle}\](\lambda x. jaloux(x,fi)_{\langle e,t \rangle}) = \lambda x. jaloux(x,fi)_{\langle e,t \rangle}$
+    4. $\llbracket \text{et} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. x \oplus y_{\langle e, \langle e,e \rangle \rangle}\](fr_{e}) = \lambda x. x \oplus fr_{\langle e,e \rangle}$
+    5. $\llbracket \text{et Frank} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda x. x \oplus fr_{\langle e,e \rangle}\](a_{e}) = a \oplus fr_{e}$
+    6. $\llbracket \text{sont jaloux de Filip} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel et Frank} \rrbracket^{M_{2Be3}}) = \[\lambda x. jaloux(x,fi)_{\langle e,t \rangle}\](a \oplus fr_{e}) = jaloux(a \oplus fr, fi)_{t}$
 
     Dénotation:
 
-    $\llbracket \text{Adel et Frank sont jaloux de Filip} \rrbracket^{M\_{2Be3}} = 1 \lor 0$
+    $\llbracket \text{Adel et Frank sont jaloux de Filip} \rrbracket^{M_{2Be3}} = 1 \lor 0$
 
 
 3. Filip, Adel et Frank ont des abdos.  
@@ -141,52 +141,52 @@ Dénotation:
 
    Entrées lexicales:
 
-   $\llbracket \text{avoir des abdos} \rrbracket = \lambda x. abdos(x)\_{\langle e,t \rangle}$
+   $\llbracket \text{avoir des abdos} \rrbracket = \lambda x. abdos(x)_{\langle e,t \rangle}$
 
    Composition:
 
-   1. $\llbracket \text{et} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = [\lambda y. \lambda x. x \oplus y\_{\langle e, \langle e,e \rangle \rangle}](fr\_{e}) = \lambda x. x \oplus fr\_{\langle e,e \rangle}$
-   2. $\llbracket \text{et Frank} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = [\lambda x. x \oplus fr\_{\langle e,e \rangle}](a\_{e}) = a \oplus fr\_{e}$
-   3. $\llbracket \text{et} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M\_{2Be3}}) = [\lambda y. \lambda x. x \oplus y\_{\langle e, \langle e,e \rangle \rangle}](fi\_{e}) = \lambda x. x \oplus fr\_{\langle e,e \rangle}$
-   4. $\llbracket \text{et Filip} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank et Adel} \rrbracket^{M\_{2Be3}}) = [\lambda x. x \oplus fr \oplus a\_{\langle e,e \rangle}](fi\_{e}) = fr \oplus a \oplus fi\_{e}$
-   5. $\llbracket \text{ont des abdos} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip, Adel et Frank} \rrbracket^{M\_{2Be3}}) = [\lambda x. abdos(x)\_{\langle e,t \rangle}](fr \oplus a \oplus fi\_{e}) = abdos(fr \oplus a \oplus fi)\_{t}$
+   1. $\llbracket \text{et} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. x \oplus y_{\langle e, \langle e,e \rangle \rangle}\](fr_{e}) = \lambda x. x \oplus fr_{\langle e,e \rangle}$
+   2. $\llbracket \text{et Frank} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda x. x \oplus fr_{\langle e,e \rangle}\](a_{e}) = a \oplus fr_{e}$
+   3. $\llbracket \text{et} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. x \oplus y_{\langle e, \langle e,e \rangle \rangle}\](fi_{e}) = \lambda x. x \oplus fr_{\langle e,e \rangle}$
+   4. $\llbracket \text{et Filip} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank et Adel} \rrbracket^{M_{2Be3}}) = \[\lambda x. x \oplus fr \oplus a_{\langle e,e \rangle}\](fi_{e}) = fr \oplus a \oplus fi_{e}$
+   5. $\llbracket \text{ont des abdos} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip, Adel et Frank} \rrbracket^{M_{2Be3}}) = \[\lambda x. abdos(x)_{\langle e,t \rangle}\](fr \oplus a \oplus fi_{e}) = abdos(fr \oplus a \oplus fi)_{t}$
    
    Dénotation:
    
-   $\llbracket \text{Filip, Adel et Frank ont des abdos} \rrbracket^{M\_{2Be3}} = 1$
+   $\llbracket \text{Filip, Adel et Frank ont des abdos} \rrbracket^{M_{2Be3}} = 1$
 
 
 4. Filip chante et Frank danse avec Adel.
 
     Entrées lexicales:
 
-    $\llbracket \text{chante} \rrbracket = \lambda x. chante(x)\_{\langle e,t \rangle}$
+    $\llbracket \text{chante} \rrbracket = \lambda x. chante(x)_{\langle e,t \rangle}$
 
     Composition:
 
-    1. $\llbracket \text{chante} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M\_{2Be3}}) = [\lambda x. chante(x)\_{\langle e,t \rangle}](fi\_{e}) = chante(fi)\_{t}$
-    2. $\llbracket \text{danse avec} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = [\lambda y.\lambda x. danser.avec(x,y)\_{\langle e, \langle e,t \rangle \rangle}](a\_{e}) = \lambda x.danser.avec(x,a)\_{\langle e,t \rangle}$
-    3. $\llbracket \text{danse avec Adel} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = [\lambda x.danser.avec(x,a)\_{\langle e,t \rangle}](fr\_{e}) = danser.avec(fr,a)\_{t}$
-    4. $\llbracket \text{et} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank danse avec Adel} \rrbracket^{M\_{2Be3}}) = [\lambda p. \lambda q. p \land q\_{{\langle t, \langle t,t \rangle \rangle}}](danser.avec(fr,a)\_{t}) = \lambda p. p \land danser.avec(fr,a)\_{\langle t,t \rangle}$
-    5. $\llbracket \text{et Frank danse avec Adel} \rrbracket^{M\_{2Be3}}(\llbracket \text{Filip chante} \rrbracket^{M\_{2Be3}}) = [\lambda p. p \land danser.avec(fr,a)\_{\langle t,t \rangle}](chante(fi)\_{t}) = chante(fi) \land danser.avec(fr,a)\_{t}$
+    1. $\llbracket \text{chante} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda x. chante(x)_{\langle e,t \rangle}\](fi_{e}) = chante(fi)_{t}$
+    2. $\llbracket \text{danse avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda y.\lambda x. danser.avec(x,y)_{\langle e, \langle e,t \rangle \rangle}\](a_{e}) = \lambda x.danser.avec(x,a)_{\langle e,t \rangle}$
+    3. $\llbracket \text{danse avec Adel} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \[\lambda x.danser.avec(x,a)_{\langle e,t \rangle}\](fr_{e}) = danser.avec(fr,a)_{t}$
+    4. $\llbracket \text{et} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank danse avec Adel} \rrbracket^{M_{2Be3}}) = \[\lambda p. \lambda q. p \land q_{{\langle t, \langle t,t \rangle \rangle}}\](danser.avec(fr,a)_{t}) = \lambda p. p \land danser.avec(fr,a)_{\langle t,t \rangle}$
+    5. $\llbracket \text{et Frank danse avec Adel} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip chante} \rrbracket^{M_{2Be3}}) = \[\lambda p. p \land danser.avec(fr,a)_{\langle t,t \rangle}\](chante(fi)_{t}) = chante(fi) \land danser.avec(fr,a)_{t}$
    
    Dénotation:
 
-   $\llbracket \text{Filip chante et Frank danse avec Adel} \rrbracket^{M\_{2Be3}} = 1$
+   $\llbracket \text{Filip chante et Frank danse avec Adel} \rrbracket^{M_{2Be3}} = 1$
 
 
 5. Adel et Frank ne font pas de backflip.
    
    Composition:
 
-   1. $\llbracket \text{font un backflip} \rrbracket^{M\_{2Be3}}(\llbracket \text{Neg} \rrbracket^{M\_{2Be3}}) = [\lambda x. backflip(x)\_{\langle e,t \rangle}](\lambda P. \lambda x. \neg P(x)\_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}) = \lambda x. \neg backflip(x)\_{\langle e,t \rangle}$
-   2. $\llbracket \text{et} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = [\lambda y. \lambda x. x \oplus y\_{\langle e, \langle e,e \rangle \rangle}](a\_{e}) = \lambda x. x \oplus a\_{\langle e,e \rangle}$
-   3. $\llbracket \text{et Adel} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = [\lambda x. x \oplus a\_{\langle e,e \rangle}](fr\_{e}) = fr \oplus a\_{e}$
-   4. $\llbracket \text{font un backflip} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank et Adel} \rrbracket^{M\_{2Be3}}) = [\lambda x. \neg backflip(x)\_{\langle e,t \rangle}](fr \oplus a\_{e}) = \neg backflip(fr \oplus a)\_{t}$
+   1. $\llbracket \text{font un backflip} \rrbracket^{M_{2Be3}}(\llbracket \text{Neg} \rrbracket^{M_{2Be3}}) = \[\lambda x. backflip(x)_{\langle e,t \rangle}\](\lambda P. \lambda x. \neg P(x)_{\langle \langle e,t \rangle, \langle e,t \rangle \rangle}) = \lambda x. \neg backflip(x)_{\langle e,t \rangle}$
+   2. $\llbracket \text{et} \rrbracket^{M_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. x \oplus y_{\langle e, \langle e,e \rangle \rangle}\](a_{e}) = \lambda x. x \oplus a_{\langle e,e \rangle}$
+   3. $\llbracket \text{et Adel} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \[\lambda x. x \oplus a_{\langle e,e \rangle}\](fr_{e}) = fr \oplus a_{e}$
+   4. $\llbracket \text{font un backflip} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank et Adel} \rrbracket^{M_{2Be3}}) = \[\lambda x. \neg backflip(x)_{\langle e,t \rangle}\](fr \oplus a_{e}) = \neg backflip(fr \oplus a)_{t}$
    
    Dénotation:
 
-   $\llbracket \text{Frank et Adel ne font pas de backflip} \rrbracket^{M\_{2Be3}} = 1$
+   $\llbracket \text{Frank et Adel ne font pas de backflip} \rrbracket^{M_{2Be3}} = 1$
 
 ---
 
