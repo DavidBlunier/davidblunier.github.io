@@ -53,7 +53,7 @@ Chaque groupe devra déposer sur UPDago un rapport de terrain sur leurs sujets r
 - Une conclusion, dans laquelle vous résumez de façon systématique les résultats de votre enquête et dans laquelle vous proposez une réflexion plus générale sur vos données et leurs implications typologiques, dans une perspective comparative;
 - Une liste exhaustive des références utilisées, répondant à la norme APA (voir document ci-dessus).
 
-La date limite de rendu des dossiers est le **1er mai 2025**.
+La date limite de rendu des dossiers est le **11 mai 2025**.
 
 
 
