@@ -1,6 +1,6 @@
 ---
 title: "Exercices série 8, corrigé"
-permalink: semantique/exercices/Ex8\_Composition\_Corr/
+permalink: semantique/exercices/Ex8_Composition_Corr/
 layout: archive
 published: true
 hidden: true
