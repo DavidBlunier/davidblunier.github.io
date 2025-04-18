@@ -47,8 +47,8 @@ Entrées lexicales:
 
 Composition:
 
-1. $\llbracket \text{chante avec} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = \[\lambda y. \lambda x. chanter.avec (x,y)\]\\_{\langle e, \langle e,t \rangle \rangle}(a)\\_{e} = \lambda x. chanter.avec(x,a)\\_{\langle e,t \rangle}$
-2. $\llbracket \text{chante avec Adel} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = \[\lambda x. chanter.avec(x,a)\]\\_{\langle e,t \rangle}(fr\\_{e}) = chanter.avec(fr,a)\\_{t}$
+1. $\llbracket \text{chante avec} \rrbracket^{M\_{2Be3}}(\llbracket \text{Adel} \rrbracket^{M\_{2Be3}}) = \[\lambda y. \lambda x. chanter.avec (x,y)\]\_{\langle e, \langle e,t \rangle \rangle}(a)\_{e} = \lambda x. chanter.avec(x,a)\\_{\langle e,t \rangle}$
+2. $\llbracket \text{chante avec Adel} \rrbracket^{M\_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M\_{2Be3}}) = \[\lambda x. chanter.avec(x,a)\]\_{\langle e,t \rangle}(fr\_{e}) = chanter.avec(fr,a)\_{t}$
 
 Dénotation:
 
