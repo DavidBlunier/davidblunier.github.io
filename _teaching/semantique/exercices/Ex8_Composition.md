@@ -67,7 +67,7 @@ Dénotation:
 3. Filip chante et Frank danse avec Adel.
 5. Adel et Frank ne font pas de backflip.
 
-
+---
 
 **Nouvelles entrées lexicales:**
 
@@ -92,6 +92,8 @@ $\llbracket \text{et}_{individus} \rrbracket = \lambda y. \lambda x. x \oplus y\
 $\llbracket \text{et}_{prédicats} \rrbracket = \lambda Q. \lambda P. \lambda x. P(x) \land Q(x)\_{\langle e,t \langle \langle e,t \rangle, \langle e,t \rangle \rangle \rangle}$  
 
 *Cette entrée de* et *permet de conjoindre deux prédicats.*
+
+---
 
 **Références**
 
