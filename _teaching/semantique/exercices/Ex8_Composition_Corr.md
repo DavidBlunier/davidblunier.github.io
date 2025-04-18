@@ -61,8 +61,8 @@ Dénotation:
 
    Composition:
 
-   1. $\llbracket \text{danse avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. danser.avec (x,y)\]_{\langle e, \langle e,t \rangle \rangle}(fi)_{e} = \lambda x. danser.avec(x,fi)_{\langle e,t \rangle}$
-   2. $\llbracket \text{danse avec Filip} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \lambda x. chanter.avec(x,fi)_{\langle e,t \rangle}(fr_{e}) = danser.avec(fr,fi)_{t}$
+   1. $\llbracket \text{danse avec} \rrbracket^{M_{2Be3}}(\llbracket \text{Filip} \rrbracket^{M_{2Be3}}) = \[\lambda y. \lambda x. danser.avec (x,y)\]\_{\langle e, \langle e,t \rangle \rangle}(fi)\_{e} = \lambda x. danser.avec(x,fi)\_{\langle e,t \rangle}$
+   2. $\llbracket \text{danse avec Filip} \rrbracket^{M_{2Be3}}(\llbracket \text{Frank} \rrbracket^{M_{2Be3}}) = \lambda x. chanter.avec(x,fi)\_{\langle e,t \rangle}(fr\_{e}) = danser.avec(fr,fi)\_{t}$
    
    Dénotation:
 
