@@ -27,6 +27,8 @@ Le cours sera évalué sur la base de deux examens écrits (exercices). Le premi
 
 [Examen 1 (à rendre pour le mardi 1er avril)](/semantique/exercices/Examen_LProp_LPred/) / [Corrigé](/semantique/exercices/Examen_LProp_LPred_Corr/)
 
+[Examen 2 (à rendre pour le vendredi 9 mai sur UPDago)](/semantique/exercices/Examen_sem_final/)
+
 
 
 
