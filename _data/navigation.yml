@@ -12,10 +12,7 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-
-   - title: "Trivia"
-    url: /trivia/  
+    url: /teaching/     
     
   #- title: "Portfolio"
    # url: /portfolio/
@@ -25,6 +22,9 @@ main:
     
   - title: "CV"
     url: /CV/Blunier_David_CV_07.2025.pdf
+
+  - title: "Trivia"
+    url: /trivia/ 
     
  # - title: "Guide"
   #  url: /markdown/
