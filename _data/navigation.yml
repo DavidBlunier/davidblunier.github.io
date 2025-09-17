@@ -9,22 +9,22 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/     
-    
-  #- title: "Portfolio"
-   # url: /portfolio/
-        
- # - title: "Blog Posts"
-  #  url: /year-archive/
-    
+    url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
   - title: "CV"
     url: /CV/Blunier_David_CV_07.2025.pdf
 
   - title: "Trivia"
-    url: /trivia/ 
-    
- # - title: "Guide"
-  #  url: /markdown/
+    url: /trivia/
+
+  # - title: "Guide"
+  #   url: /markdown/
