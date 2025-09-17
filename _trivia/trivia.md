@@ -1,11 +1,5 @@
 ---
-title: "Trivia"
-collection: trivia
-type: " "
-permalink: /trivia/
-venue: " "
-date: 
-location: " "
+title: "Trivia repository intro"
+date: 2025-09-17
 ---
-
 This is a repository of non-academy-related stuff.
