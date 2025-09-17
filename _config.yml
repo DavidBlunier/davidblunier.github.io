@@ -278,6 +278,14 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  #_trivia
+  - scope:
+      path: ""
+      type: trivia
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 
 # Sass/SCSS
