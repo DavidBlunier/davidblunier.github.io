@@ -2,7 +2,7 @@
 title: "Trivia"
 collection: trivia
 type: " "
-permalink: /trivia/trivia
+permalink: /trivia/
 venue: " "
 date: 
 location: " "
