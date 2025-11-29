@@ -246,6 +246,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_previous_next: false
   # _teaching
   - scope:
       path: ""
