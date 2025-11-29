@@ -7,4 +7,4 @@ Ce document propose une visite de la vieille ville de Genève, la "Rome Protesta
 
 *English version coming soon!*
 
-[Document](./RPR/Visite_reforme.pdf)
+[Document](./Visite_reforme.pdf)
