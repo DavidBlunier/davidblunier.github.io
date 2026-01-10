@@ -12,7 +12,7 @@ location: "Genève, Suisse"
 
 Ces travaux pratiques seront l’occasion de revoir et de travailler les notions abordées dans le cadre du cours *Introduction aux sciences du langage* de la Prof. Isabelle Charnavel. Le séminaire est le lieu d’une réflexion approfondie sur les différentes notions introduites durant le cours, ainsi que de leur application au moyen d’exercices. La langue du séminaire est le français.
 
-[Syllabus](./ISL/supports/Syllabus_TP_ISL_2023.pdf)
+[Syllabus](./ISL/Syllabus_TP_ISL_2023.pdf)
 
 [Mini-guide pour les citations et les références APA](../ils/supports/APA.pdf)
 
