@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ISL
 venue: "Université de Genève"
-date: Automne 2023
+date: 27.09.2023
 location: "Genève, Suisse"
 ---
 
