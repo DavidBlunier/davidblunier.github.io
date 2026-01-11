@@ -32,5 +32,5 @@ Ces travaux pratiques seront l’occasion de revoir et de travailler les notions
 | 22.11 | TP 6: Syntaxe I | [Exercices](./ISL/supports/ISL_23_TP6_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP6_corr.pdf) |
 | 29.11 | TP 7: Syntaxe II | [Exercices](./ISL/supports/ISL_23_TP7_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP7_corr.pdf) |
 | 06.12 | TP 8: Sémantique | [Exercices](./ISL/supports/ISL_23_TP8_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP8_corr.pdf) |
-| 13.12 | [TP 9: Pragmatique](../origines/supports/Pragmatique.pdf) | [Exercices](./ISL/supports/ISL_23_TP9_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP9_corr.pdf) |
+| 13.12 | [TP 9: Pragmatique](/origines/supports/Pragmatique.pdf) | [Exercices](./ISL/supports/ISL_23_TP9_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP9_corr.pdf) |
 | 20.12 | [TP 10: Diachronie du français](./ISL/supports/Diachronie.pdf) | [Exercices](./ISL/supports/ISL_23_TP10_ex.pdf)     | [Corrigé](./ISL/supports/ISL_23_TP10_ex.pdf) |
