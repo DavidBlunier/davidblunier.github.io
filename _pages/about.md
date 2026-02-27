@@ -13,7 +13,9 @@ A significant part of my research is dedicated to the study of sign languages an
 
 I recently obtained my PhD from the University of Geneva, where I defended my dissertation under the supervision of [Isabelle Charnavel](https://sites.google.com/site/isabellecharnavel/home) (Geneva) and [Yasutada Sudo](https://www.ucl.ac.uk/~ucjtudo/) (University College London). My dissertation is about indexicals, those natural language expressions that refer to elements of the utterance context; more precisely, it focuses on their behavior in speech reports in both spoken and signed languages. I have been working on indexical shift, a phenomenon that describes first and second person pronouns being interpreted anaphorically in complex clauses, as well as logophoric pronouns. Topics I'm interested in include grammatical features such as person and number and their typologies, implicatures and the role of alternatives and competition in natural language, attitude reports, and the pragmatics of fiction.
 
-My non-academical interests are, among many, calisthenics, opera, poetry and [cinema](https://letterboxd.com/DavidBlunier/), not necessarily in that order.
+My non-academical interests are, among many, calisthenics, opera, poetry and [cinema](https://letterboxd.com/DavidBlunier/).
+
+You can contact me at david.lucas.simon[at]gmail.com
 
  
 
