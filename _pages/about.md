@@ -17,5 +17,10 @@ My non-academical interests are, among many, calisthenics, opera, poetry and [ci
 
 You can contact me at david.lucas.simon[at]gmail.com
 
+
+##Current projects
+
+###The semantics of Number in French Sign Language (joint work with L. Couteau)
+French Sign Language (LSF) has various means to express plurality: through classifier handshapes, introduction of *loci* in the signing space, and reduplication. This latter form is highly constrained morpho-phonologically, and is only licensed on a subset of signs with specific phonological specifications. Overall, the expression of plurality is highly context-dependent, and bare nouns can also refer to plural entities in the right context. Conversely, reduplicated nouns in downward-entailing contexts can be interpreted inclusively, i.e. judged true of single individuals, providing evidence that the `more than one' reading of reduplicated plurals is obtained through a plurality inference. Our work explores how this inference comes about, especially with regard to the theory of alternatives: if bare nouns are also compatible with pluralities, what is the competitor of reduplicated forms?
  
 
