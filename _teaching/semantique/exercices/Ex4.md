@@ -22,8 +22,8 @@ hidden: true
    10. Tous les chanteurs sont soit des basses, soit des barytons, soit des ténors.
 
 2. Paraphrasez les expressions de LPred suivantes en français:
-   1. $\exists x. [cool(x) \land swag(x)]$
-   2. $\forall x. [truite(x) \land fumée(x)]$
+   1. $\exists x. [\text{cool}(x) \land \text{swag}(x)]$
+   2. $\forall x. [\text{truite}(x) \land {fumée}(x)]$
    3. $\forall x. [rappeur(x) \rightarrow grossier(x)]$
    4. $\forall x. [rappeur(x) \rightarrow \exists y. voiture(y) \land tunée(y) \land conduire(x,y) ]$
    5. $\neg \exists x. rappeur(x) \land truite(x)$
