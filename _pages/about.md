@@ -20,6 +20,11 @@ You can contact me at david.lucas.simon[at]gmail.com
 
 ## Current projects
 
+### Predicates and their alternatives (joint work with [Mathieu Paillé](https://mathieupaille.github.io/)
+
+A wide variety of expressions can be used to convey more than what they mean: this is the case of sentences such as *Jane ate some of the cookies*, which can be strengthened to mean that she did not eat all of them. This is also the case of lexical predicates (such as *warm*), but importantly, not all of them. For instance, *dog* cannot be strengthened to mean *dog that is not a poodle* in the (infelicitous) sentence *John has a poodle or a dog*, contrasting with *Jane did eat all of the cookies or some of them*. Our project aims at understanding better the theoretical and conceptual underpinnings of such differences, which are widely attested and stable cross-linguistically.
+
+
 ### The semantics of Number in French Sign Language (joint work with L. Couteau)
 French Sign Language (LSF) has various means to express plurality: through classifier handshapes, introduction of *loci* in the signing space, and reduplication. This latter form is highly constrained morpho-phonologically, and is only licensed on a subset of signs with specific phonological specifications. Overall, the expression of plurality is highly context-dependent, and bare nouns can also refer to plural entities in the right context. Conversely, reduplicated nouns in downward-entailing contexts can be interpreted inclusively, i.e. judged true of single individuals, providing evidence that the `more than one' reading of reduplicated plurals is obtained through a plurality inference. Our work explores how this inference comes about, especially with regard to the theory of alternatives: if bare nouns are also compatible with pluralities, what is the competitor of reduplicated forms?
  
