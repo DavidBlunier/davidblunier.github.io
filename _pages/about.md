@@ -20,7 +20,7 @@ You can contact me at david.lucas.simon[at]gmail.com
 
 ## Current projects
 
-### Predicates and their alternatives (joint work with [Mathieu Paillé](https://mathieupaille.github.io/)
+### Predicates and their alternatives (joint work with [Mathieu Paillé](https://mathieupaille.github.io/))
 
 A wide variety of expressions can be used to convey more than what they mean: this is the case of sentences such as *Jane ate some of the cookies*, which can be strengthened to mean that she did not eat all of them. This is also the case of lexical predicates (such as *warm*), but importantly, not all of them. For instance, *dog* cannot be strengthened to mean *dog that is not a poodle* in the (infelicitous) sentence *John has a poodle or a dog*, contrasting with *Jane did eat all of the cookies or some of them*. Our project aims at understanding better the theoretical and conceptual underpinnings of such differences, which are widely attested and stable cross-linguistically.
 
